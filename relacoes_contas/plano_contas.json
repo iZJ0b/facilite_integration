@@ -1,0 +1,4880 @@
+[
+    {
+        "id": 1,
+        "classificacao": "1",
+        "tipo": "S",
+        "descricao": "ATIVO"
+    },
+    {
+        "id": 2,
+        "classificacao": "11",
+        "tipo": "S",
+        "descricao": "ATIVO CIRCULANTE"
+    },
+    {
+        "id": 3,
+        "classificacao": "111",
+        "tipo": "S",
+        "descricao": "DISPONIBILIDADES"
+    },
+    {
+        "id": 4,
+        "classificacao": "1111",
+        "tipo": "S",
+        "descricao": "CAIXA GERAL"
+    },
+    {
+        "id": 5,
+        "classificacao": "111101",
+        "tipo": "S",
+        "descricao": "CAIXA GERAL"
+    },
+    {
+        "id": 6,
+        "classificacao": "1111010001",
+        "tipo": "A",
+        "descricao": "CAIXA"
+    },
+    {
+        "id": 7,
+        "classificacao": "1112",
+        "tipo": "S",
+        "descricao": "BANCOS C/ MOVIMENTO"
+    },
+    {
+        "id": 8,
+        "classificacao": "111201",
+        "tipo": "S",
+        "descricao": "BANCOS C/ MOVIMENTO"
+    },
+    {
+        "id": 9,
+        "classificacao": "1112010001",
+        "tipo": "A",
+        "descricao": "BANCO ITAU"
+    },
+    {
+        "id": 10,
+        "classificacao": "1112010002",
+        "tipo": "A",
+        "descricao": "BANCO SANTANDER"
+    },
+    {
+        "id": 11,
+        "classificacao": "1112010003",
+        "tipo": "A",
+        "descricao": "BANCO INTERMEDIUM"
+    },
+    {
+        "id": 12,
+        "classificacao": "1112010004",
+        "tipo": "A",
+        "descricao": "BANCO DO BRASIL"
+    },
+    {
+        "id": 13,
+        "classificacao": "1112010005",
+        "tipo": "A",
+        "descricao": "BANCO CAIXA ECONïMICA"
+    },
+    {
+        "id": 14,
+        "classificacao": "1112010006",
+        "tipo": "A",
+        "descricao": "BANCO SICOOB"
+    },
+    {
+        "id": 15,
+        "classificacao": "1112010007",
+        "tipo": "A",
+        "descricao": "BANCO ITAU"
+    },
+    {
+        "id": 16,
+        "classificacao": "1112010008",
+        "tipo": "A",
+        "descricao": "BANCO BRADESCO"
+    },
+    {
+        "id": 17,
+        "classificacao": "1112010009",
+        "tipo": "A",
+        "descricao": "BANCO SAFRA"
+    },
+    {
+        "id": 18,
+        "classificacao": "1112010010",
+        "tipo": "A",
+        "descricao": "BANCO NEON"
+    },
+    {
+        "id": 19,
+        "classificacao": "1112010011",
+        "tipo": "A",
+        "descricao": "BANCO ITAU - 2438356 URUGUAI"
+    },
+    {
+        "id": 20,
+        "classificacao": "1112010012",
+        "tipo": "A",
+        "descricao": "BANCO MòLTIPLO - NATIXIS BRASIL S.A"
+    },
+    {
+        "id": 21,
+        "classificacao": "1112010013",
+        "tipo": "A",
+        "descricao": "CORRETOTA BTG PACTUAL"
+    },
+    {
+        "id": 22,
+        "classificacao": "1112010014",
+        "tipo": "A",
+        "descricao": "BANCO ITAU - 26705-5 - Projeto TNA"
+    },
+    {
+        "id": 23,
+        "classificacao": "1112010015",
+        "tipo": "A",
+        "descricao": "CONTA CORRENTE BRB"
+    },
+    {
+        "id": 24,
+        "classificacao": "1112010016",
+        "tipo": "A",
+        "descricao": "BANCO ITAU SP - 26115-3"
+    },
+    {
+        "id": 25,
+        "classificacao": "1112010017",
+        "tipo": "A",
+        "descricao": "BANCO ITAU RJ - 26522-0"
+    },
+    {
+        "id": 26,
+        "classificacao": "1112010018",
+        "tipo": "A",
+        "descricao": "BANCOOB"
+    },
+    {
+        "id": 27,
+        "classificacao": "1112010019",
+        "tipo": "A",
+        "descricao": "BANCO ITAU - 27222-0 - Projeto PMR"
+    },
+    {
+        "id": 28,
+        "classificacao": "1112010020",
+        "tipo": "A",
+        "descricao": "BANCO DA AMAZONIA S.A."
+    },
+    {
+        "id": 29,
+        "classificacao": "1112010021",
+        "tipo": "A",
+        "descricao": "BANCO MçXIMA S.A."
+    },
+    {
+        "id": 30,
+        "classificacao": "1112010022",
+        "tipo": "A",
+        "descricao": "BANCO BONSUCESSO S.A."
+    },
+    {
+        "id": 31,
+        "classificacao": "1112010023",
+        "tipo": "A",
+        "descricao": "BANCO NUBANK"
+    },
+    {
+        "id": 32,
+        "classificacao": "1112010024",
+        "tipo": "A",
+        "descricao": "CORA SOCIEDADE DE CRƒDITO DIRETO S.A."
+    },
+    {
+        "id": 33,
+        "classificacao": "1112010025",
+        "tipo": "A",
+        "descricao": "BANCO VOTORANTIM"
+    },
+    {
+        "id": 34,
+        "classificacao": "1112010026",
+        "tipo": "A",
+        "descricao": "BANCO SICREDI"
+    },
+    {
+        "id": 35,
+        "classificacao": "1112010027",
+        "tipo": "A",
+        "descricao": "BANCO XP INVESTIMENTOS"
+    },
+    {
+        "id": 36,
+        "classificacao": "1112010028",
+        "tipo": "A",
+        "descricao": "BANCO C6BANK"
+    },
+    {
+        "id": 37,
+        "classificacao": "1112010029",
+        "tipo": "A",
+        "descricao": "BANCO PAG SEGURO"
+    },
+    {
+        "id": 38,
+        "classificacao": "1112010030",
+        "tipo": "A",
+        "descricao": "SICOOB SIST COOP CREDITO BRASIL"
+    },
+    {
+        "id": 39,
+        "classificacao": "1112010031",
+        "tipo": "A",
+        "descricao": "BANCO GERENCIANET"
+    },
+    {
+        "id": 40,
+        "classificacao": "1112010033",
+        "tipo": "A",
+        "descricao": "BANCO STONE"
+    },
+    {
+        "id": 41,
+        "classificacao": "1112010035",
+        "tipo": "A",
+        "descricao": "BANCO ASAAS"
+    },
+    {
+        "id": 42,
+        "classificacao": "1112010036",
+        "tipo": "A",
+        "descricao": "BANCO ORIGINAL S.A"
+    },
+    {
+        "id": 43,
+        "classificacao": "1112010038",
+        "tipo": "A",
+        "descricao": "BANCO SICOOB - 17.145-0"
+    },
+    {
+        "id": 44,
+        "classificacao": "1112010039",
+        "tipo": "A",
+        "descricao": "BANCO SICOOB - 14.154-2"
+    },
+    {
+        "id": 45,
+        "classificacao": "1112010040",
+        "tipo": "A",
+        "descricao": "BANCO PJ BANK"
+    },
+    {
+        "id": 46,
+        "classificacao": "1112010041",
+        "tipo": "A",
+        "descricao": "BANCO AILOS"
+    },
+    {
+        "id": 47,
+        "classificacao": "1112010042",
+        "tipo": "A",
+        "descricao": "BANCO DO BRASIL AG 1626-8 CC 59579-9"
+    },
+    {
+        "id": 48,
+        "classificacao": "1112010043",
+        "tipo": "A",
+        "descricao": "TRANSFERENCIA ENTRE CONTAS"
+    },
+    {
+        "id": 49,
+        "classificacao": "1112010044",
+        "tipo": "A",
+        "descricao": "BANCO RENDIMENTO"
+    },
+    {
+        "id": 50,
+        "classificacao": "111202",
+        "tipo": "S",
+        "descricao": "NUMERçRIOS EM TRåNSITO"
+    },
+    {
+        "id": 51,
+        "classificacao": "1112020001",
+        "tipo": "A",
+        "descricao": "NUMERçRIOS EM TRåNSITO"
+    },
+    {
+        "id": 52,
+        "classificacao": "112",
+        "tipo": "S",
+        "descricao": "CREDITOS"
+    },
+    {
+        "id": 53,
+        "classificacao": "1121",
+        "tipo": "S",
+        "descricao": "DUPLICATAS A RECEBER"
+    },
+    {
+        "id": 54,
+        "classificacao": "112101",
+        "tipo": "S",
+        "descricao": "DUPLICATAS A RECEBER"
+    },
+    {
+        "id": 55,
+        "classificacao": "1121010001",
+        "tipo": "A",
+        "descricao": "DUPLICATAS A RECEBER"
+    },
+    {
+        "id": 56,
+        "classificacao": "1121010002",
+        "tipo": "A",
+        "descricao": "CLIENTES"
+    },
+    {
+        "id": 57,
+        "classificacao": "1121010004",
+        "tipo": "A",
+        "descricao": "ANTECIPA‚ÌO DE RECEBIVEIS"
+    },
+    {
+        "id": 58,
+        "classificacao": "112102",
+        "tipo": "S",
+        "descricao": "(-) DUPLICATAS DESCONTADAS"
+    },
+    {
+        "id": 59,
+        "classificacao": "1121020001",
+        "tipo": "A",
+        "descricao": "(-) DUPLICATAS DESCONTADAS"
+    },
+    {
+        "id": 60,
+        "classificacao": "112103",
+        "tipo": "S",
+        "descricao": "EMPRESTIMO"
+    },
+    {
+        "id": 61,
+        "classificacao": "1121030001",
+        "tipo": "A",
+        "descricao": "EMPRESTIMOS A RECEBER"
+    },
+    {
+        "id": 62,
+        "classificacao": "1121030002",
+        "tipo": "A",
+        "descricao": "EMPRƒSTIMO A SîCIOS"
+    },
+    {
+        "id": 63,
+        "classificacao": "1121030003",
+        "tipo": "A",
+        "descricao": "(-) RENDAS A APROPRIAR DE OPERA‚ÍES DE CRƒDITO"
+    },
+    {
+        "id": 64,
+        "classificacao": "1121030004",
+        "tipo": "A",
+        "descricao": "(-) PROVISÌO PARA DEVEDORES DUVIDOSOS"
+    },
+    {
+        "id": 65,
+        "classificacao": "1122",
+        "tipo": "S",
+        "descricao": "TITULOS A RECEBER"
+    },
+    {
+        "id": 66,
+        "classificacao": "112201",
+        "tipo": "S",
+        "descricao": "TITULOS A RECEBER"
+    },
+    {
+        "id": 67,
+        "classificacao": "1122010001",
+        "tipo": "A",
+        "descricao": "TITULOS A RECEBER (CLIENTES)"
+    },
+    {
+        "id": 68,
+        "classificacao": "1122010002",
+        "tipo": "A",
+        "descricao": "CLIENTES"
+    },
+    {
+        "id": 69,
+        "classificacao": "112202",
+        "tipo": "S",
+        "descricao": "(-) TITULOS DESCONTADOS"
+    },
+    {
+        "id": 70,
+        "classificacao": "1122020001",
+        "tipo": "A",
+        "descricao": "(-) TITULOS DESCONTADOS"
+    },
+    {
+        "id": 71,
+        "classificacao": "1123",
+        "tipo": "S",
+        "descricao": "APLICA‚ÌO"
+    },
+    {
+        "id": 72,
+        "classificacao": "112301",
+        "tipo": "S",
+        "descricao": "APLICA‚ÌO"
+    },
+    {
+        "id": 73,
+        "classificacao": "1123010001",
+        "tipo": "A",
+        "descricao": "APLICA‚ÌO FINANCEIRA ITAU"
+    },
+    {
+        "id": 74,
+        "classificacao": "1123010002",
+        "tipo": "A",
+        "descricao": "APLICA‚ÌO AUT MAIS"
+    },
+    {
+        "id": 75,
+        "classificacao": "1123010003",
+        "tipo": "A",
+        "descricao": "BOVESPA"
+    },
+    {
+        "id": 76,
+        "classificacao": "1123010004",
+        "tipo": "A",
+        "descricao": "BMF"
+    },
+    {
+        "id": 77,
+        "classificacao": "1123010005",
+        "tipo": "A",
+        "descricao": "PREMIUM ITAU"
+    },
+    {
+        "id": 78,
+        "classificacao": "1123010006",
+        "tipo": "A",
+        "descricao": "SANTANDER - CONTAMAX EMPRESARIAL"
+    },
+    {
+        "id": 79,
+        "classificacao": "1123010007",
+        "tipo": "A",
+        "descricao": "SANTANDER - RENDA FIXA CDB/RDB"
+    },
+    {
+        "id": 80,
+        "classificacao": "1123010008",
+        "tipo": "A",
+        "descricao": "APLICA‚ÌO AUT MAIS - ITAU"
+    },
+    {
+        "id": 81,
+        "classificacao": "1123010009",
+        "tipo": "A",
+        "descricao": "APLICA‚ÌO FINANCEIRA"
+    },
+    {
+        "id": 82,
+        "classificacao": "1123010010",
+        "tipo": "A",
+        "descricao": "SAFRA - APLICA‚ÌO CONTAMAX EMPRESARIAL"
+    },
+    {
+        "id": 83,
+        "classificacao": "1123010011",
+        "tipo": "A",
+        "descricao": "BRADESCO - APLICA‚ÌO FINANCEIRA"
+    },
+    {
+        "id": 84,
+        "classificacao": "1123010012",
+        "tipo": "A",
+        "descricao": "XP INVESTIMENTOS - APLICA‚ÌO FINANCEIRA"
+    },
+    {
+        "id": 85,
+        "classificacao": "1123010013",
+        "tipo": "A",
+        "descricao": "APLICA‚ÌO CDB BRB"
+    },
+    {
+        "id": 86,
+        "classificacao": "1123010014",
+        "tipo": "A",
+        "descricao": "APLICA‚ÌO CDB-DI ITAU"
+    },
+    {
+        "id": 87,
+        "classificacao": "1123010015",
+        "tipo": "A",
+        "descricao": "APLICA‚ÌO FINANCEIRA - BANCO DO BRASIL"
+    },
+    {
+        "id": 88,
+        "classificacao": "1123010016",
+        "tipo": "A",
+        "descricao": "APLICA‚ÌO FINANCEIRA - INTER"
+    },
+    {
+        "id": 89,
+        "classificacao": "1123010017",
+        "tipo": "A",
+        "descricao": "APLICA‚ÌO FINANCEIRA - ICATU CAPITALIZA‚ÌO"
+    },
+    {
+        "id": 90,
+        "classificacao": "1123010018",
+        "tipo": "A",
+        "descricao": "APLICA‚ÌO FINANCEIRA - OUROCAP PM CAPITALIZA‚ÌO"
+    },
+    {
+        "id": 91,
+        "classificacao": "1123010019",
+        "tipo": "A",
+        "descricao": "APLICA‚ÌO VGBL"
+    },
+    {
+        "id": 92,
+        "classificacao": "1123010020",
+        "tipo": "A",
+        "descricao": "BRADESCO S/A INVESTIMENTO - CDB"
+    },
+    {
+        "id": 93,
+        "classificacao": "1123010021",
+        "tipo": "A",
+        "descricao": "BRADESCO S/A INVESTIMENTO - INVEST FACIL"
+    },
+    {
+        "id": 94,
+        "classificacao": "1123010022",
+        "tipo": "A",
+        "descricao": "CDB PARANA BANCO S/A"
+    },
+    {
+        "id": 95,
+        "classificacao": "1123010023",
+        "tipo": "A",
+        "descricao": "SULAMERICA EXCLUSIVE FI REFERENCIADO DI"
+    },
+    {
+        "id": 96,
+        "classificacao": "1123010024",
+        "tipo": "A",
+        "descricao": "MAG TOP FIC FIRF CP LP"
+    },
+    {
+        "id": 97,
+        "classificacao": "1123010025",
+        "tipo": "A",
+        "descricao": "WESTERN ASSET TOTAL CREDIT ADVISORY FIC FIRF CP"
+    },
+    {
+        "id": 98,
+        "classificacao": "1123010026",
+        "tipo": "A",
+        "descricao": "ACOES BRADESCO - BBDC4"
+    },
+    {
+        "id": 99,
+        "classificacao": "1123010027",
+        "tipo": "A",
+        "descricao": "VINCI MULTIESTRATEGIA FIM"
+    },
+    {
+        "id": 100,
+        "classificacao": "1123010028",
+        "tipo": "A",
+        "descricao": "SICOOB CAPITAL SOCIAL"
+    },
+    {
+        "id": 101,
+        "classificacao": "1123010030",
+        "tipo": "A",
+        "descricao": "HIPERFUNDO DI - P/ RESGATE"
+    },
+    {
+        "id": 102,
+        "classificacao": "1123010031",
+        "tipo": "A",
+        "descricao": "ACOES NA BOLSA DE VALORES"
+    },
+    {
+        "id": 103,
+        "classificacao": "1123010032",
+        "tipo": "A",
+        "descricao": "APLICA‚ÌO FINANCEIRA - C6 BANK"
+    },
+    {
+        "id": 104,
+        "classificacao": "1123010033",
+        "tipo": "A",
+        "descricao": "FUNDOS VINLAND MACRO PLUS ADVISORY FIC FIM"
+    },
+    {
+        "id": 105,
+        "classificacao": "1123010034",
+        "tipo": "A",
+        "descricao": "FUNDOS TREND DI SIMPLES FIRF"
+    },
+    {
+        "id": 106,
+        "classificacao": "1123010035",
+        "tipo": "A",
+        "descricao": "SUL AMƒRICA EXCELLENCE FI RENDA FIXA CREDITO PRIVADO"
+    },
+    {
+        "id": 107,
+        "classificacao": "1123010036",
+        "tipo": "A",
+        "descricao": "RIZA DAIKON ADVISORY FIC FIM CP"
+    },
+    {
+        "id": 108,
+        "classificacao": "1123010037",
+        "tipo": "A",
+        "descricao": "PORTO SEGURO FI REFERENCIADO DI CREDITO PRIVADO"
+    },
+    {
+        "id": 109,
+        "classificacao": "1123010038",
+        "tipo": "A",
+        "descricao": "ALFA SIRIUS FIRF CP"
+    },
+    {
+        "id": 110,
+        "classificacao": "1123010039",
+        "tipo": "A",
+        "descricao": "(-) RESGATE DE APLICA‚ÌO FINANCEIRA"
+    },
+    {
+        "id": 111,
+        "classificacao": "113",
+        "tipo": "S",
+        "descricao": "ESTOQUES"
+    },
+    {
+        "id": 112,
+        "classificacao": "1131",
+        "tipo": "S",
+        "descricao": "ESTOQUES"
+    },
+    {
+        "id": 113,
+        "classificacao": "113101",
+        "tipo": "S",
+        "descricao": "ESTOQUES"
+    },
+    {
+        "id": 114,
+        "classificacao": "1131010001",
+        "tipo": "A",
+        "descricao": "MATERIA PRIMA"
+    },
+    {
+        "id": 115,
+        "classificacao": "1131010002",
+        "tipo": "A",
+        "descricao": "PRODUTOS"
+    },
+    {
+        "id": 116,
+        "classificacao": "1131010003",
+        "tipo": "A",
+        "descricao": "MERCADORIAS"
+    },
+    {
+        "id": 117,
+        "classificacao": "1131010004",
+        "tipo": "A",
+        "descricao": "ALMOXARIFADO"
+    },
+    {
+        "id": 118,
+        "classificacao": "1131010005",
+        "tipo": "A",
+        "descricao": "MATERIAIS DE USO/CONSUMO"
+    },
+    {
+        "id": 119,
+        "classificacao": "1131010006",
+        "tipo": "A",
+        "descricao": "IMOVEIS PARA REVENDA"
+    },
+    {
+        "id": 120,
+        "classificacao": "113102",
+        "tipo": "S",
+        "descricao": "TRANSFERæNCIAS"
+    },
+    {
+        "id": 121,
+        "classificacao": "1131020001",
+        "tipo": "A",
+        "descricao": "TRANSFERæNCIA DE INSUMOS"
+    },
+    {
+        "id": 122,
+        "classificacao": "1131020002",
+        "tipo": "A",
+        "descricao": "TRANSFERæNCIA DE PRODUTOS"
+    },
+    {
+        "id": 123,
+        "classificacao": "1139",
+        "tipo": "S",
+        "descricao": "ADIANTAMENTOS A FORNECEDORES"
+    },
+    {
+        "id": 124,
+        "classificacao": "113901",
+        "tipo": "S",
+        "descricao": "ADIANTAMENTOS A FORNECEDORES"
+    },
+    {
+        "id": 125,
+        "classificacao": "1139010001",
+        "tipo": "A",
+        "descricao": "ADIANTAMENTOS A FORNECEDORES"
+    },
+    {
+        "id": 126,
+        "classificacao": "114",
+        "tipo": "S",
+        "descricao": "DESPESAS ANTECIPADAS"
+    },
+    {
+        "id": 127,
+        "classificacao": "1141",
+        "tipo": "S",
+        "descricao": "JUROS A VENCER"
+    },
+    {
+        "id": 128,
+        "classificacao": "114101",
+        "tipo": "S",
+        "descricao": "JUROS A VENCER"
+    },
+    {
+        "id": 129,
+        "classificacao": "1141010001",
+        "tipo": "A",
+        "descricao": "JUROS A VENCER"
+    },
+    {
+        "id": 130,
+        "classificacao": "1144",
+        "tipo": "S",
+        "descricao": "DESPESAS ANTECIPADAS"
+    },
+    {
+        "id": 131,
+        "classificacao": "114401",
+        "tipo": "S",
+        "descricao": "DESPESAS ANTECIPADAS"
+    },
+    {
+        "id": 132,
+        "classificacao": "1144010001",
+        "tipo": "A",
+        "descricao": "IMPOSTOS A RECUPERAR"
+    },
+    {
+        "id": 133,
+        "classificacao": "1144010002",
+        "tipo": "A",
+        "descricao": "ISS A RECUPERAR"
+    },
+    {
+        "id": 134,
+        "classificacao": "1144010003",
+        "tipo": "A",
+        "descricao": "IPI A RECUPERAR"
+    },
+    {
+        "id": 135,
+        "classificacao": "1144010004",
+        "tipo": "A",
+        "descricao": "IRRF A RECUPERAR"
+    },
+    {
+        "id": 136,
+        "classificacao": "1144010005",
+        "tipo": "A",
+        "descricao": "CSLL ESTIMATIVA"
+    },
+    {
+        "id": 137,
+        "classificacao": "1144010006",
+        "tipo": "A",
+        "descricao": "PIS A RECUPERAR"
+    },
+    {
+        "id": 138,
+        "classificacao": "1144010007",
+        "tipo": "A",
+        "descricao": "COFINS A RECUPERAR"
+    },
+    {
+        "id": 139,
+        "classificacao": "1144010008",
+        "tipo": "A",
+        "descricao": "INSS A RECUPERAR"
+    },
+    {
+        "id": 140,
+        "classificacao": "1144010009",
+        "tipo": "A",
+        "descricao": "IRPJ ESTIMATIVA"
+    },
+    {
+        "id": 141,
+        "classificacao": "1144010010",
+        "tipo": "A",
+        "descricao": "IOF A RECUPERAR"
+    },
+    {
+        "id": 142,
+        "classificacao": "1144010011",
+        "tipo": "A",
+        "descricao": "SEGUROS A APROPRIAR"
+    },
+    {
+        "id": 143,
+        "classificacao": "1144010012",
+        "tipo": "A",
+        "descricao": "IMPOSTOS A COMPENSAR"
+    },
+    {
+        "id": 144,
+        "classificacao": "1144010013",
+        "tipo": "A",
+        "descricao": "CSLL A RECUPERAR"
+    },
+    {
+        "id": 145,
+        "classificacao": "1144010014",
+        "tipo": "A",
+        "descricao": "IRPJ A RECUPERAR"
+    },
+    {
+        "id": 146,
+        "classificacao": "115",
+        "tipo": "S",
+        "descricao": "INVESTIMENTOS A CURTO PRAZO"
+    },
+    {
+        "id": 147,
+        "classificacao": "1151",
+        "tipo": "S",
+        "descricao": "INVESTIMENTOS A CURTO PRAZO"
+    },
+    {
+        "id": 148,
+        "classificacao": "115101",
+        "tipo": "S",
+        "descricao": "INVESTIMENTOS A CURTO PRAZO"
+    },
+    {
+        "id": 149,
+        "classificacao": "1151010001",
+        "tipo": "A",
+        "descricao": "TRANSFERENCIA PARA CONTA INVESTIMENTO"
+    },
+    {
+        "id": 150,
+        "classificacao": "1151010002",
+        "tipo": "A",
+        "descricao": "INVESTIMENTOS"
+    },
+    {
+        "id": 151,
+        "classificacao": "116",
+        "tipo": "S",
+        "descricao": "OUTROS CREDITOS"
+    },
+    {
+        "id": 152,
+        "classificacao": "1161",
+        "tipo": "S",
+        "descricao": "OUTROS CREDITOS"
+    },
+    {
+        "id": 153,
+        "classificacao": "116101",
+        "tipo": "S",
+        "descricao": "ADIANTAMENTO DE SOCIOS"
+    },
+    {
+        "id": 154,
+        "classificacao": "1161010001",
+        "tipo": "A",
+        "descricao": "ADIANTAMENTO DE SOCIOS"
+    },
+    {
+        "id": 155,
+        "classificacao": "116102",
+        "tipo": "S",
+        "descricao": "ADIANTAMENTOS A FUNCIONçRIOS"
+    },
+    {
+        "id": 156,
+        "classificacao": "1161020001",
+        "tipo": "A",
+        "descricao": "ADIANTAMENTO DE SALçRIOS"
+    },
+    {
+        "id": 157,
+        "classificacao": "1161020002",
+        "tipo": "A",
+        "descricao": "ADIANTAMENTO DE FƒRIAS"
+    },
+    {
+        "id": 158,
+        "classificacao": "1161020003",
+        "tipo": "A",
+        "descricao": "ADIANTAMENTO 13¼ SALçRIO"
+    },
+    {
+        "id": 159,
+        "classificacao": "117",
+        "tipo": "S",
+        "descricao": "ADIANTAMENTOS DIVERSOS"
+    },
+    {
+        "id": 160,
+        "classificacao": "1170",
+        "tipo": "S",
+        "descricao": "ADIANTAMENTOS DIVERSOS"
+    },
+    {
+        "id": 161,
+        "classificacao": "117001",
+        "tipo": "S",
+        "descricao": "ADIANTAMENTOS DIVERSOS"
+    },
+    {
+        "id": 162,
+        "classificacao": "1170010001",
+        "tipo": "A",
+        "descricao": "ADIANTAMENTOS DIVERSOS"
+    },
+    {
+        "id": 163,
+        "classificacao": "12",
+        "tipo": "S",
+        "descricao": "ATIVO NÌO CIRCULANTE"
+    },
+    {
+        "id": 164,
+        "classificacao": "121",
+        "tipo": "S",
+        "descricao": "ATIVO REALIZçVEL A LONGO PRAZO"
+    },
+    {
+        "id": 165,
+        "classificacao": "1211",
+        "tipo": "S",
+        "descricao": "CRƒDITOS"
+    },
+    {
+        "id": 166,
+        "classificacao": "121101",
+        "tipo": "S",
+        "descricao": "DUPLICATAS A RECEBER"
+    },
+    {
+        "id": 167,
+        "classificacao": "1211010001",
+        "tipo": "A",
+        "descricao": "DUPLICATAS A RECEBER"
+    },
+    {
+        "id": 168,
+        "classificacao": "1211010002",
+        "tipo": "A",
+        "descricao": "CONTAS A RECEBER"
+    },
+    {
+        "id": 169,
+        "classificacao": "1211010003",
+        "tipo": "A",
+        "descricao": "EMPRESTIMOS A RECEBER"
+    },
+    {
+        "id": 170,
+        "classificacao": "1211010004",
+        "tipo": "A",
+        "descricao": "(-) RENDAS A APROPRIAR DE OPERA‚ÍES DE CRƒDITO"
+    },
+    {
+        "id": 171,
+        "classificacao": "1211010005",
+        "tipo": "A",
+        "descricao": "DEPîSITOS JUDICIAIS"
+    },
+    {
+        "id": 172,
+        "classificacao": "121102",
+        "tipo": "S",
+        "descricao": "(-) DUPLICATAS DESCONTADAS"
+    },
+    {
+        "id": 173,
+        "classificacao": "1211020001",
+        "tipo": "A",
+        "descricao": "(-) DUPLICATAS DESCONTADAS"
+    },
+    {
+        "id": 174,
+        "classificacao": "1212",
+        "tipo": "S",
+        "descricao": "TITULOS A RECEBER"
+    },
+    {
+        "id": 175,
+        "classificacao": "121201",
+        "tipo": "S",
+        "descricao": "TITULOS A RECEBER"
+    },
+    {
+        "id": 176,
+        "classificacao": "1212010001",
+        "tipo": "A",
+        "descricao": "TITULOS A RECEBER"
+    },
+    {
+        "id": 177,
+        "classificacao": "1212010002",
+        "tipo": "A",
+        "descricao": "CONSORCIO"
+    },
+    {
+        "id": 178,
+        "classificacao": "1213",
+        "tipo": "S",
+        "descricao": "(-) TITULOS DESCONTADOS"
+    },
+    {
+        "id": 179,
+        "classificacao": "121301",
+        "tipo": "S",
+        "descricao": "(-) TITULOS DESCONTADOS"
+    },
+    {
+        "id": 180,
+        "classificacao": "1213010001",
+        "tipo": "A",
+        "descricao": "TITULOS DESCONTADOS"
+    },
+    {
+        "id": 181,
+        "classificacao": "122",
+        "tipo": "S",
+        "descricao": "TITULOS E VALORES MOBILIARIOS"
+    },
+    {
+        "id": 182,
+        "classificacao": "1221",
+        "tipo": "S",
+        "descricao": "TITULOS E VALORES MOBILIARIOS"
+    },
+    {
+        "id": 183,
+        "classificacao": "122101",
+        "tipo": "S",
+        "descricao": "LETRAS DE CAMBIO"
+    },
+    {
+        "id": 184,
+        "classificacao": "1221010001",
+        "tipo": "A",
+        "descricao": "LETRAS DE CAMBIO"
+    },
+    {
+        "id": 185,
+        "classificacao": "13",
+        "tipo": "S",
+        "descricao": "ATIVO PERMANENTE"
+    },
+    {
+        "id": 186,
+        "classificacao": "130",
+        "tipo": "S",
+        "descricao": "INVESTIMENTOS"
+    },
+    {
+        "id": 187,
+        "classificacao": "1301",
+        "tipo": "S",
+        "descricao": "INVESTIMENTOS"
+    },
+    {
+        "id": 188,
+        "classificacao": "130101",
+        "tipo": "S",
+        "descricao": "PARTICIPA‚ÍES SOCIETçRIAS"
+    },
+    {
+        "id": 189,
+        "classificacao": "1301010001",
+        "tipo": "A",
+        "descricao": "PARTICIPA‚ÍES SOCIETçRIAS"
+    },
+    {
+        "id": 190,
+        "classificacao": "1301010002",
+        "tipo": "A",
+        "descricao": "CONTA CAPITAL SICOOB"
+    },
+    {
+        "id": 191,
+        "classificacao": "1301010003",
+        "tipo": "A",
+        "descricao": "CONTA CAPITAL BANCOOB"
+    },
+    {
+        "id": 192,
+        "classificacao": "1301010004",
+        "tipo": "A",
+        "descricao": "PARTICIPA‚ÌO EM CAPITAL DE TERCEIROS"
+    },
+    {
+        "id": 193,
+        "classificacao": "130102",
+        "tipo": "S",
+        "descricao": "INVESTIMENTOS EM STARTUPS"
+    },
+    {
+        "id": 194,
+        "classificacao": "1301020001",
+        "tipo": "A",
+        "descricao": "INVESTIMENTOS EM STARTUPS"
+    },
+    {
+        "id": 195,
+        "classificacao": "1301020002",
+        "tipo": "A",
+        "descricao": "COTAS FUNDO COTIDIANO KK17"
+    },
+    {
+        "id": 196,
+        "classificacao": "130103",
+        "tipo": "S",
+        "descricao": "EMPRESTIMOS"
+    },
+    {
+        "id": 197,
+        "classificacao": "1301030001",
+        "tipo": "A",
+        "descricao": "CENTRO COTI"
+    },
+    {
+        "id": 198,
+        "classificacao": "1301030002",
+        "tipo": "A",
+        "descricao": "MSM SABER ENSINO E PESQUISA LTDA"
+    },
+    {
+        "id": 199,
+        "classificacao": "1301030003",
+        "tipo": "A",
+        "descricao": "M2M SABER ESCOLA E CONSULTORIA LTDA"
+    },
+    {
+        "id": 200,
+        "classificacao": "130104",
+        "tipo": "S",
+        "descricao": "INVESTIMENTOS A LONGO PRAZO"
+    },
+    {
+        "id": 201,
+        "classificacao": "1301040001",
+        "tipo": "A",
+        "descricao": "INVESTIMENTOS A LONGO PRAZO"
+    },
+    {
+        "id": 202,
+        "classificacao": "1301040002",
+        "tipo": "A",
+        "descricao": "GPC PARTICIPA‚ÍES E INVESTIMENTOS LTDA"
+    },
+    {
+        "id": 203,
+        "classificacao": "131",
+        "tipo": "S",
+        "descricao": "IMOBILIZADO"
+    },
+    {
+        "id": 204,
+        "classificacao": "1311",
+        "tipo": "S",
+        "descricao": "IMOVEIS"
+    },
+    {
+        "id": 205,
+        "classificacao": "131101",
+        "tipo": "S",
+        "descricao": "TERRENOS"
+    },
+    {
+        "id": 206,
+        "classificacao": "1311010001",
+        "tipo": "A",
+        "descricao": "TERRENOS"
+    },
+    {
+        "id": 207,
+        "classificacao": "1311010002",
+        "tipo": "A",
+        "descricao": "IMîVEIS"
+    },
+    {
+        "id": 208,
+        "classificacao": "1311010003",
+        "tipo": "A",
+        "descricao": "BENFEITORIA EM IMîVEL DE TERCEIRO"
+    },
+    {
+        "id": 209,
+        "classificacao": "1311010005",
+        "tipo": "A",
+        "descricao": "HOLDING PATRIMONIAL"
+    },
+    {
+        "id": 210,
+        "classificacao": "131102",
+        "tipo": "S",
+        "descricao": "EDIFICACOES"
+    },
+    {
+        "id": 211,
+        "classificacao": "1311020001",
+        "tipo": "A",
+        "descricao": "EDIFICACOES"
+    },
+    {
+        "id": 212,
+        "classificacao": "1312",
+        "tipo": "S",
+        "descricao": "VEICULOS"
+    },
+    {
+        "id": 213,
+        "classificacao": "131201",
+        "tipo": "S",
+        "descricao": "VEICULOS"
+    },
+    {
+        "id": 214,
+        "classificacao": "1312010001",
+        "tipo": "A",
+        "descricao": "VEICULOS"
+    },
+    {
+        "id": 215,
+        "classificacao": "1313",
+        "tipo": "S",
+        "descricao": "MOVEIS E UTENSILIOS"
+    },
+    {
+        "id": 216,
+        "classificacao": "131301",
+        "tipo": "S",
+        "descricao": "MOVEIS E UTENSILIOS"
+    },
+    {
+        "id": 217,
+        "classificacao": "1313010001",
+        "tipo": "A",
+        "descricao": "MOVEIS E UTENSILIOS"
+    },
+    {
+        "id": 218,
+        "classificacao": "1313010002",
+        "tipo": "A",
+        "descricao": "LETREIROS E NEONS"
+    },
+    {
+        "id": 219,
+        "classificacao": "1313010003",
+        "tipo": "A",
+        "descricao": "SERRALHERIA"
+    },
+    {
+        "id": 220,
+        "classificacao": "1314",
+        "tipo": "S",
+        "descricao": "MAQUINAS E EQUIPAMENTOS"
+    },
+    {
+        "id": 221,
+        "classificacao": "131401",
+        "tipo": "S",
+        "descricao": "MAQUINAS E EQUIPAMENTOS"
+    },
+    {
+        "id": 222,
+        "classificacao": "1314010001",
+        "tipo": "A",
+        "descricao": "MAQUINAS E EQUIPAMENTOS"
+    },
+    {
+        "id": 223,
+        "classificacao": "1314010002",
+        "tipo": "A",
+        "descricao": "EQUIPAMENTOS DE INFORMATICA"
+    },
+    {
+        "id": 224,
+        "classificacao": "1314010003",
+        "tipo": "A",
+        "descricao": "OUTROS EQUIPAMENTOS"
+    },
+    {
+        "id": 225,
+        "classificacao": "1314010004",
+        "tipo": "A",
+        "descricao": "ELETRODOMESTICOS"
+    },
+    {
+        "id": 226,
+        "classificacao": "1315",
+        "tipo": "S",
+        "descricao": "FERRAMENTAS E ACESSORIOS"
+    },
+    {
+        "id": 227,
+        "classificacao": "131501",
+        "tipo": "S",
+        "descricao": "FERRAMENTAS E ACESSORIOS"
+    },
+    {
+        "id": 228,
+        "classificacao": "1315010001",
+        "tipo": "A",
+        "descricao": "FERRAMENTAS E ACESSORIOS"
+    },
+    {
+        "id": 229,
+        "classificacao": "1316",
+        "tipo": "S",
+        "descricao": "INSTALACOES"
+    },
+    {
+        "id": 230,
+        "classificacao": "131601",
+        "tipo": "S",
+        "descricao": "INSTALACOES"
+    },
+    {
+        "id": 231,
+        "classificacao": "1316010001",
+        "tipo": "A",
+        "descricao": "INSTALACOES"
+    },
+    {
+        "id": 232,
+        "classificacao": "1317",
+        "tipo": "S",
+        "descricao": "CONSTRU‚ÍES E BENFEITORIAS"
+    },
+    {
+        "id": 233,
+        "classificacao": "131701",
+        "tipo": "S",
+        "descricao": "CONSTRU‚ÍES E BENFEITORIAS"
+    },
+    {
+        "id": 234,
+        "classificacao": "1317010001",
+        "tipo": "A",
+        "descricao": "CONSTRU‚ÍES E BENFEITORIAS"
+    },
+    {
+        "id": 235,
+        "classificacao": "1317010002",
+        "tipo": "A",
+        "descricao": "LOU‚AS E METAIS"
+    },
+    {
+        "id": 236,
+        "classificacao": "1317010003",
+        "tipo": "A",
+        "descricao": "GRANITOS"
+    },
+    {
+        "id": 237,
+        "classificacao": "1317010004",
+        "tipo": "A",
+        "descricao": "PISOS E REVESTIMENTOS"
+    },
+    {
+        "id": 238,
+        "classificacao": "1317010005",
+        "tipo": "A",
+        "descricao": "TINTAS"
+    },
+    {
+        "id": 239,
+        "classificacao": "1317010006",
+        "tipo": "A",
+        "descricao": "ILUMINA‚ÌO E ELƒTRICA"
+    },
+    {
+        "id": 240,
+        "classificacao": "1317010007",
+        "tipo": "A",
+        "descricao": "MARCENARIA"
+    },
+    {
+        "id": 241,
+        "classificacao": "1319",
+        "tipo": "S",
+        "descricao": "(-) DEPRECIACAO DO IMOBILIZADO"
+    },
+    {
+        "id": 242,
+        "classificacao": "131901",
+        "tipo": "S",
+        "descricao": "(-) EDIFICIOS EM CONSTRUCOES"
+    },
+    {
+        "id": 243,
+        "classificacao": "1319010001",
+        "tipo": "A",
+        "descricao": "EDIFICIOS EM CONSTRUCOES"
+    },
+    {
+        "id": 244,
+        "classificacao": "131902",
+        "tipo": "S",
+        "descricao": "(-) VEICULOS"
+    },
+    {
+        "id": 245,
+        "classificacao": "1319020001",
+        "tipo": "A",
+        "descricao": "VEICULOS"
+    },
+    {
+        "id": 246,
+        "classificacao": "131903",
+        "tipo": "S",
+        "descricao": "(-) MOVEIS E UTENSILIOS"
+    },
+    {
+        "id": 247,
+        "classificacao": "1319030001",
+        "tipo": "A",
+        "descricao": "MOVEIS E UTENSILIOS"
+    },
+    {
+        "id": 248,
+        "classificacao": "131904",
+        "tipo": "S",
+        "descricao": "(-) MAQUINAS E EQUIPAMENTOS"
+    },
+    {
+        "id": 249,
+        "classificacao": "1319040001",
+        "tipo": "A",
+        "descricao": "MAQUINAS E EQUIPAMENTOS"
+    },
+    {
+        "id": 250,
+        "classificacao": "1319040002",
+        "tipo": "A",
+        "descricao": "EQUIPAMENTOS DE INFORMATICA"
+    },
+    {
+        "id": 251,
+        "classificacao": "1319040003",
+        "tipo": "A",
+        "descricao": "(-) DEPREC. EQUIP. INFORMATICA"
+    },
+    {
+        "id": 252,
+        "classificacao": "1319040004",
+        "tipo": "A",
+        "descricao": "OUTROS EQUIPAMENTOS"
+    },
+    {
+        "id": 253,
+        "classificacao": "131905",
+        "tipo": "S",
+        "descricao": "(-) FERRAMENTAS E ACESSORIOS"
+    },
+    {
+        "id": 254,
+        "classificacao": "1319050001",
+        "tipo": "A",
+        "descricao": "FERRAMENTAS E ACESSORIOS"
+    },
+    {
+        "id": 255,
+        "classificacao": "131906",
+        "tipo": "S",
+        "descricao": "(-) INSTALACOES"
+    },
+    {
+        "id": 256,
+        "classificacao": "1319060001",
+        "tipo": "A",
+        "descricao": "INSTALACOES"
+    },
+    {
+        "id": 257,
+        "classificacao": "131907",
+        "tipo": "S",
+        "descricao": "(-) DEPRECIA‚ÌO ACUMULADA"
+    },
+    {
+        "id": 258,
+        "classificacao": "1319070001",
+        "tipo": "A",
+        "descricao": "(-) DEPRECIA‚ÌO ACUMULADA"
+    },
+    {
+        "id": 259,
+        "classificacao": "131908",
+        "tipo": "S",
+        "descricao": "IMOVEIS"
+    },
+    {
+        "id": 260,
+        "classificacao": "1319080001",
+        "tipo": "A",
+        "descricao": "(-)IMOVEIS"
+    },
+    {
+        "id": 261,
+        "classificacao": "131909",
+        "tipo": "S",
+        "descricao": "CONSTRUCOES E BENFEITORIAS"
+    },
+    {
+        "id": 262,
+        "classificacao": "1319090001",
+        "tipo": "A",
+        "descricao": "(-)CONSTRUCOES E BENFEITORIAS"
+    },
+    {
+        "id": 263,
+        "classificacao": "132",
+        "tipo": "S",
+        "descricao": "INTANGêVEL"
+    },
+    {
+        "id": 264,
+        "classificacao": "1321",
+        "tipo": "S",
+        "descricao": "INTANGêVEL"
+    },
+    {
+        "id": 265,
+        "classificacao": "132101",
+        "tipo": "S",
+        "descricao": "INTANGêVEL"
+    },
+    {
+        "id": 266,
+        "classificacao": "1321010001",
+        "tipo": "A",
+        "descricao": "FUNDO DE COMƒRCIO ADQUIRIDO"
+    },
+    {
+        "id": 267,
+        "classificacao": "1321010002",
+        "tipo": "A",
+        "descricao": "BENS INCORPîREOS"
+    },
+    {
+        "id": 268,
+        "classificacao": "1321010003",
+        "tipo": "A",
+        "descricao": "(-) AMORTIZA‚ÍES ACUMULADAS"
+    },
+    {
+        "id": 269,
+        "classificacao": "1321010004",
+        "tipo": "A",
+        "descricao": "PESQUISA E DESENVOLVIMENTO"
+    },
+    {
+        "id": 270,
+        "classificacao": "2",
+        "tipo": "S",
+        "descricao": "PASSIVO"
+    },
+    {
+        "id": 271,
+        "classificacao": "21",
+        "tipo": "S",
+        "descricao": "PASSIVO CIRCULANTE"
+    },
+    {
+        "id": 272,
+        "classificacao": "211",
+        "tipo": "S",
+        "descricao": "EXIGIVEL A CURTO PRAZO"
+    },
+    {
+        "id": 273,
+        "classificacao": "2111",
+        "tipo": "S",
+        "descricao": "FORNECEDORES"
+    },
+    {
+        "id": 274,
+        "classificacao": "211101",
+        "tipo": "S",
+        "descricao": "FORNECEDORES"
+    },
+    {
+        "id": 275,
+        "classificacao": "2111010001",
+        "tipo": "A",
+        "descricao": "FORNECEDORES"
+    },
+    {
+        "id": 276,
+        "classificacao": "2111010002",
+        "tipo": "A",
+        "descricao": "FORNECEDORES PESSOAS LIGADAS"
+    },
+    {
+        "id": 277,
+        "classificacao": "211102",
+        "tipo": "S",
+        "descricao": "NUMERçRIOS EM TRåNSITO"
+    },
+    {
+        "id": 278,
+        "classificacao": "2111020001",
+        "tipo": "A",
+        "descricao": "NUMERçRIOS EM TRåNSITO"
+    },
+    {
+        "id": 279,
+        "classificacao": "211103",
+        "tipo": "S",
+        "descricao": "CONTAS A PAGAR"
+    },
+    {
+        "id": 280,
+        "classificacao": "2111030001",
+        "tipo": "A",
+        "descricao": "CONTAS A PAGAR"
+    },
+    {
+        "id": 281,
+        "classificacao": "2111030002",
+        "tipo": "A",
+        "descricao": "VALORES A REPASSAR"
+    },
+    {
+        "id": 282,
+        "classificacao": "2111030003",
+        "tipo": "A",
+        "descricao": "APARTAMENTO SQS 216 - BRASILIA"
+    },
+    {
+        "id": 283,
+        "classificacao": "2112",
+        "tipo": "S",
+        "descricao": "ADIANTAMENTO DE CLIENTE"
+    },
+    {
+        "id": 284,
+        "classificacao": "211201",
+        "tipo": "S",
+        "descricao": "ADIANTAMENTO DE CLIENTE"
+    },
+    {
+        "id": 285,
+        "classificacao": "2112010001",
+        "tipo": "A",
+        "descricao": "ADIANTAMENTO DE CLIENTE"
+    },
+    {
+        "id": 286,
+        "classificacao": "2113",
+        "tipo": "S",
+        "descricao": "OBRIG. SOCIAIS E TRABALHISTAS"
+    },
+    {
+        "id": 287,
+        "classificacao": "211301",
+        "tipo": "S",
+        "descricao": "OBRIG. SOCIAIS E TRABALHISTAS"
+    },
+    {
+        "id": 288,
+        "classificacao": "2113010001",
+        "tipo": "A",
+        "descricao": "SALARIOS A PAGAR"
+    },
+    {
+        "id": 289,
+        "classificacao": "2113010002",
+        "tipo": "A",
+        "descricao": "FERIAS A PAGAR"
+    },
+    {
+        "id": 290,
+        "classificacao": "2113010003",
+        "tipo": "A",
+        "descricao": "13. SALARIO A PAGAR"
+    },
+    {
+        "id": 291,
+        "classificacao": "2113010004",
+        "tipo": "A",
+        "descricao": "INSS/GPS"
+    },
+    {
+        "id": 292,
+        "classificacao": "2113010005",
+        "tipo": "A",
+        "descricao": "FGTS A RECOLHER"
+    },
+    {
+        "id": 293,
+        "classificacao": "2113010006",
+        "tipo": "A",
+        "descricao": "SEGURO DE VIDA A PAGAR"
+    },
+    {
+        "id": 294,
+        "classificacao": "2113010007",
+        "tipo": "A",
+        "descricao": "IRRF S/ FOLHA A RECOLHER"
+    },
+    {
+        "id": 295,
+        "classificacao": "2113010009",
+        "tipo": "A",
+        "descricao": "CONTRIBUICAO SINDICAL"
+    },
+    {
+        "id": 296,
+        "classificacao": "2113010010",
+        "tipo": "A",
+        "descricao": "PRO-LABORE A PAGAR"
+    },
+    {
+        "id": 297,
+        "classificacao": "2113010011",
+        "tipo": "A",
+        "descricao": "PIS SOBRE FOLHA"
+    },
+    {
+        "id": 298,
+        "classificacao": "2113010012",
+        "tipo": "A",
+        "descricao": "ISS RPA"
+    },
+    {
+        "id": 299,
+        "classificacao": "2113010013",
+        "tipo": "A",
+        "descricao": "AUTONOMO RPA A PAGAR"
+    },
+    {
+        "id": 300,
+        "classificacao": "2113010014",
+        "tipo": "A",
+        "descricao": "INSS RPA"
+    },
+    {
+        "id": 301,
+        "classificacao": "2113010015",
+        "tipo": "A",
+        "descricao": "IRRF RPA"
+    },
+    {
+        "id": 302,
+        "classificacao": "2113010016",
+        "tipo": "A",
+        "descricao": "PARCELAMENTO DE IMPOSTOS"
+    },
+    {
+        "id": 303,
+        "classificacao": "2113010017",
+        "tipo": "A",
+        "descricao": "RESCISÍES A PAGAR"
+    },
+    {
+        "id": 304,
+        "classificacao": "2113010018",
+        "tipo": "A",
+        "descricao": "GRRF A PAGAR"
+    },
+    {
+        "id": 305,
+        "classificacao": "2113010019",
+        "tipo": "A",
+        "descricao": "INSS E IRRF A RECOLHER"
+    },
+    {
+        "id": 306,
+        "classificacao": "2114",
+        "tipo": "S",
+        "descricao": "OBRIGACOES TRIBUTARIAS"
+    },
+    {
+        "id": 307,
+        "classificacao": "211401",
+        "tipo": "S",
+        "descricao": "OBRIGACOES TRIBUTARIAS"
+    },
+    {
+        "id": 308,
+        "classificacao": "2114010001",
+        "tipo": "A",
+        "descricao": "IRRF A RECOLHER"
+    },
+    {
+        "id": 309,
+        "classificacao": "2114010002",
+        "tipo": "A",
+        "descricao": "IPI A RECOLHER"
+    },
+    {
+        "id": 310,
+        "classificacao": "2114010003",
+        "tipo": "A",
+        "descricao": "ICMS A RECOLHER"
+    },
+    {
+        "id": 311,
+        "classificacao": "2114010004",
+        "tipo": "A",
+        "descricao": "COFINS A RECOLHER"
+    },
+    {
+        "id": 312,
+        "classificacao": "2114010005",
+        "tipo": "A",
+        "descricao": "ISS A RECOLHER"
+    },
+    {
+        "id": 313,
+        "classificacao": "2114010006",
+        "tipo": "A",
+        "descricao": "IRPJ A RECOLHER"
+    },
+    {
+        "id": 314,
+        "classificacao": "2114010007",
+        "tipo": "A",
+        "descricao": "CSLL A RECOLHER"
+    },
+    {
+        "id": 315,
+        "classificacao": "2114010008",
+        "tipo": "A",
+        "descricao": "SIMPLES NACIONAL"
+    },
+    {
+        "id": 316,
+        "classificacao": "2114010009",
+        "tipo": "A",
+        "descricao": "CONTRIBUI‚ÌO ASSISTENCIAL"
+    },
+    {
+        "id": 317,
+        "classificacao": "2114010010",
+        "tipo": "A",
+        "descricao": "CONTRIBUICAO ASSISTENCIAL"
+    },
+    {
+        "id": 318,
+        "classificacao": "2114010011",
+        "tipo": "A",
+        "descricao": "PIS A RECOLHER"
+    },
+    {
+        "id": 319,
+        "classificacao": "2114010012",
+        "tipo": "A",
+        "descricao": "RETEN‚ÌO(PIS, COFINS, CSLL) A RECOLHER"
+    },
+    {
+        "id": 320,
+        "classificacao": "2114010013",
+        "tipo": "A",
+        "descricao": "DAS MEI"
+    },
+    {
+        "id": 321,
+        "classificacao": "2114010014",
+        "tipo": "A",
+        "descricao": "RETEN‚ÌO (ISS)"
+    },
+    {
+        "id": 322,
+        "classificacao": "2114010015",
+        "tipo": "A",
+        "descricao": "RETEN‚ÌO (COFINS)"
+    },
+    {
+        "id": 323,
+        "classificacao": "2114010016",
+        "tipo": "A",
+        "descricao": "RETEN‚ÌO (PIS)"
+    },
+    {
+        "id": 324,
+        "classificacao": "2114010017",
+        "tipo": "A",
+        "descricao": "IOF A RECOLHER"
+    },
+    {
+        "id": 325,
+        "classificacao": "2114010018",
+        "tipo": "A",
+        "descricao": "RETEN‚ÌO (IRPJ)"
+    },
+    {
+        "id": 326,
+        "classificacao": "2114010019",
+        "tipo": "A",
+        "descricao": "RETEN‚ÌO (CSLL)"
+    },
+    {
+        "id": 327,
+        "classificacao": "2114010020",
+        "tipo": "A",
+        "descricao": "MULTAS FISCAIS A PAGAR"
+    },
+    {
+        "id": 328,
+        "classificacao": "2114010021",
+        "tipo": "A",
+        "descricao": "RETEN‚ÌO (INSS)"
+    },
+    {
+        "id": 329,
+        "classificacao": "2114010022",
+        "tipo": "A",
+        "descricao": "PIS A RECOLHER"
+    },
+    {
+        "id": 330,
+        "classificacao": "2114010023",
+        "tipo": "A",
+        "descricao": "IRRF S/ NOTAS PAGAS"
+    },
+    {
+        "id": 331,
+        "classificacao": "2114010024",
+        "tipo": "A",
+        "descricao": "PIS/COFINS/CSLL S/ NOTAS PAGAS"
+    },
+    {
+        "id": 332,
+        "classificacao": "211402",
+        "tipo": "S",
+        "descricao": "PARCELAMENTO DE TRIBUTOS"
+    },
+    {
+        "id": 333,
+        "classificacao": "2114020001",
+        "tipo": "A",
+        "descricao": "PARCELAMENTO DE TRIBUTOS"
+    },
+    {
+        "id": 334,
+        "classificacao": "2114020002",
+        "tipo": "A",
+        "descricao": "PARCELAMENTO ISS"
+    },
+    {
+        "id": 335,
+        "classificacao": "2114020003",
+        "tipo": "A",
+        "descricao": "ENCARGOS PARCELAMENTO SIMPLES"
+    },
+    {
+        "id": 336,
+        "classificacao": "2114020004",
+        "tipo": "A",
+        "descricao": "PARCELAMENTO SIMPLES NACIONAL"
+    },
+    {
+        "id": 337,
+        "classificacao": "2114020005",
+        "tipo": "A",
+        "descricao": "PARCELAMENTO CSLL"
+    },
+    {
+        "id": 338,
+        "classificacao": "2114020006",
+        "tipo": "A",
+        "descricao": "PARCELAMENTO IRPJ"
+    },
+    {
+        "id": 339,
+        "classificacao": "2114020007",
+        "tipo": "A",
+        "descricao": "PARCELAMENTO COFINS"
+    },
+    {
+        "id": 340,
+        "classificacao": "2114020008",
+        "tipo": "A",
+        "descricao": "PARCELAMENTO NAO PREVIDENCIARIO PGFN"
+    },
+    {
+        "id": 341,
+        "classificacao": "2114020009",
+        "tipo": "A",
+        "descricao": "PARCELAMENTO PREVIDENCIARIO PGFN"
+    },
+    {
+        "id": 342,
+        "classificacao": "2115",
+        "tipo": "S",
+        "descricao": "CONTRATO DE MòTUOS"
+    },
+    {
+        "id": 343,
+        "classificacao": "211501",
+        "tipo": "S",
+        "descricao": "CONTRATO DE MòTUOS CONVERSêVEIS EM A‚ÍES"
+    },
+    {
+        "id": 344,
+        "classificacao": "2115010001",
+        "tipo": "A",
+        "descricao": "MARCYO FORTES"
+    },
+    {
+        "id": 345,
+        "classificacao": "2116",
+        "tipo": "S",
+        "descricao": "LUCROS, DIVIDENDOS E PARTICIP. A PAGAR"
+    },
+    {
+        "id": 346,
+        "classificacao": "211601",
+        "tipo": "S",
+        "descricao": "LUCROS, DIVIDENDOS E PARTICIP. A PAGAR"
+    },
+    {
+        "id": 347,
+        "classificacao": "2116010001",
+        "tipo": "A",
+        "descricao": "DIVIDENDOS A PAGAR"
+    },
+    {
+        "id": 348,
+        "classificacao": "2116010002",
+        "tipo": "A",
+        "descricao": "PARTICIPA‚ÍES DE DEBæNTURES A PAGAR"
+    },
+    {
+        "id": 349,
+        "classificacao": "2116010003",
+        "tipo": "A",
+        "descricao": "PARTICIPA‚ÍES DE EMPREGADOS A PAGAR"
+    },
+    {
+        "id": 350,
+        "classificacao": "2116010004",
+        "tipo": "A",
+        "descricao": "LUCRO DISTRIBUIDO"
+    },
+    {
+        "id": 351,
+        "classificacao": "2116010005",
+        "tipo": "A",
+        "descricao": "PARTICIPA‚ÍES DE PARTES BENEF. A PAGAR"
+    },
+    {
+        "id": 352,
+        "classificacao": "2116010006",
+        "tipo": "A",
+        "descricao": "DIVIDENDOS A PAGAR"
+    },
+    {
+        "id": 353,
+        "classificacao": "2117",
+        "tipo": "S",
+        "descricao": "EMPRƒSTIMOS E FINANCIAMENTOS"
+    },
+    {
+        "id": 354,
+        "classificacao": "211701",
+        "tipo": "S",
+        "descricao": "EMPRƒSTIMOS"
+    },
+    {
+        "id": 355,
+        "classificacao": "2117010001",
+        "tipo": "A",
+        "descricao": "EMPRESTIMOS DE TERCEIROS"
+    },
+    {
+        "id": 356,
+        "classificacao": "2117010002",
+        "tipo": "A",
+        "descricao": "EMPRESTIMOS BANCçRIO"
+    },
+    {
+        "id": 357,
+        "classificacao": "2117010003",
+        "tipo": "A",
+        "descricao": "EMPRƒSTIMOS COM SîCIOS"
+    },
+    {
+        "id": 358,
+        "classificacao": "2117010004",
+        "tipo": "A",
+        "descricao": "(-) JUROS A TRANSCORRER S/ EMPRƒSTIMOS BANCçRIOS"
+    },
+    {
+        "id": 359,
+        "classificacao": "2117010005",
+        "tipo": "A",
+        "descricao": "FINANCIAMENTOS"
+    },
+    {
+        "id": 360,
+        "classificacao": "2117010006",
+        "tipo": "A",
+        "descricao": "(-) JUROS A TRANSCORRER SOBRE FINANCIAMENTOS"
+    },
+    {
+        "id": 361,
+        "classificacao": "2117010007",
+        "tipo": "A",
+        "descricao": "EMPRESTIMO - BMP MONEY"
+    },
+    {
+        "id": 362,
+        "classificacao": "2117010008",
+        "tipo": "A",
+        "descricao": "(-) JUROS A ATRANSCORRER SOBRE EMPRESTIMO - BMP MONEY"
+    },
+    {
+        "id": 363,
+        "classificacao": "2118",
+        "tipo": "S",
+        "descricao": "PROVISAO P/ CONTRIB. SOCIAL"
+    },
+    {
+        "id": 364,
+        "classificacao": "211801",
+        "tipo": "S",
+        "descricao": "PROVISAO P/ CONTRIB. SOCIAL"
+    },
+    {
+        "id": 365,
+        "classificacao": "2118010001",
+        "tipo": "A",
+        "descricao": "PROVISAO P/ CONTRIB. SOCIAL"
+    },
+    {
+        "id": 366,
+        "classificacao": "2119",
+        "tipo": "S",
+        "descricao": "PROVISAO P/ IMPOSTO DE RENDA"
+    },
+    {
+        "id": 367,
+        "classificacao": "211901",
+        "tipo": "S",
+        "descricao": "PROVISAO P/ IMPOSTO DE RENDA"
+    },
+    {
+        "id": 368,
+        "classificacao": "2119010001",
+        "tipo": "A",
+        "descricao": "PROVISAO P/ IMPOSTO DE RENDA"
+    },
+    {
+        "id": 369,
+        "classificacao": "212",
+        "tipo": "S",
+        "descricao": "(-) ENCARGOS S/ PARCELAMENTO"
+    },
+    {
+        "id": 370,
+        "classificacao": "2121",
+        "tipo": "S",
+        "descricao": "(-) ENCARGOS S/ PARCELAMENTO"
+    },
+    {
+        "id": 371,
+        "classificacao": "212101",
+        "tipo": "S",
+        "descricao": "(-) ENCARGOS S/ PARCELAMENTO"
+    },
+    {
+        "id": 372,
+        "classificacao": "2121010001",
+        "tipo": "A",
+        "descricao": "(-) JUROS S/ PARCELAMENTO"
+    },
+    {
+        "id": 373,
+        "classificacao": "2121010002",
+        "tipo": "A",
+        "descricao": "(-) MULTA S/ PARCELAMENTO"
+    },
+    {
+        "id": 374,
+        "classificacao": "22",
+        "tipo": "S",
+        "descricao": "PASSIVO NÌO CIRCULANTE"
+    },
+    {
+        "id": 375,
+        "classificacao": "221",
+        "tipo": "S",
+        "descricao": "EXIGIVEL A LONGO PRAZO"
+    },
+    {
+        "id": 376,
+        "classificacao": "2211",
+        "tipo": "S",
+        "descricao": "FORNECEDORES"
+    },
+    {
+        "id": 377,
+        "classificacao": "221101",
+        "tipo": "S",
+        "descricao": "FORNECEDORES"
+    },
+    {
+        "id": 378,
+        "classificacao": "2211010001",
+        "tipo": "A",
+        "descricao": "FORNECEDORES"
+    },
+    {
+        "id": 379,
+        "classificacao": "2212",
+        "tipo": "S",
+        "descricao": "EMPRESTIMOS E APORTE SîCIOS"
+    },
+    {
+        "id": 380,
+        "classificacao": "221201",
+        "tipo": "S",
+        "descricao": "EMPRESTIMOS E APORTE SOCIOS"
+    },
+    {
+        "id": 381,
+        "classificacao": "2212010003",
+        "tipo": "A",
+        "descricao": "EMPRESTIMOS DE SîCIOS"
+    },
+    {
+        "id": 382,
+        "classificacao": "2212010004",
+        "tipo": "A",
+        "descricao": "EMPRESTIMO DE SOCIOS"
+    },
+    {
+        "id": 383,
+        "classificacao": "2213",
+        "tipo": "S",
+        "descricao": "EMPRƒSTIMOS E FINANCIAMENTOS LONGO PRAZO"
+    },
+    {
+        "id": 384,
+        "classificacao": "221301",
+        "tipo": "S",
+        "descricao": "EMPRƒSTIMOS E FINANCIAMENTOS LONGO PRAZO"
+    },
+    {
+        "id": 385,
+        "classificacao": "2213010001",
+        "tipo": "A",
+        "descricao": "EMPRƒSTIMOS BANCçRIOS LP"
+    },
+    {
+        "id": 386,
+        "classificacao": "2213010002",
+        "tipo": "A",
+        "descricao": "(-) JUROS A TRANSCORRER S/ EMPRƒSTIMOS BANCçRIOS"
+    },
+    {
+        "id": 387,
+        "classificacao": "2213010003",
+        "tipo": "A",
+        "descricao": "EMPRƒSTIMOS A PAGAR"
+    },
+    {
+        "id": 388,
+        "classificacao": "2214",
+        "tipo": "S",
+        "descricao": "TITULOS A PAGAR"
+    },
+    {
+        "id": 389,
+        "classificacao": "221401",
+        "tipo": "S",
+        "descricao": "OUTRAS OBRIGACOES"
+    },
+    {
+        "id": 390,
+        "classificacao": "2214010001",
+        "tipo": "A",
+        "descricao": "ADIANTAMENTO DE CLIENTES"
+    },
+    {
+        "id": 391,
+        "classificacao": "2214010002",
+        "tipo": "A",
+        "descricao": "CREDITOS DE SOCIOS"
+    },
+    {
+        "id": 392,
+        "classificacao": "23",
+        "tipo": "S",
+        "descricao": "RESULTADO EXERCICIOS FUTUROS"
+    },
+    {
+        "id": 393,
+        "classificacao": "230",
+        "tipo": "S",
+        "descricao": "RECEITA DE EXERCICIOS FUTUROS"
+    },
+    {
+        "id": 394,
+        "classificacao": "2301",
+        "tipo": "S",
+        "descricao": "VENDAS P/ ENTREGAS FUTURAS"
+    },
+    {
+        "id": 395,
+        "classificacao": "230101",
+        "tipo": "S",
+        "descricao": "VENDAS DE PRODUTOS"
+    },
+    {
+        "id": 396,
+        "classificacao": "2301010001",
+        "tipo": "A",
+        "descricao": "VENDA DE PRODUTOS"
+    },
+    {
+        "id": 397,
+        "classificacao": "2301010002",
+        "tipo": "A",
+        "descricao": "RECEITAS DIFERIDAS DE JUROS"
+    },
+    {
+        "id": 398,
+        "classificacao": "25",
+        "tipo": "S",
+        "descricao": "PATRIMONIO LIQUIDO"
+    },
+    {
+        "id": 399,
+        "classificacao": "250",
+        "tipo": "S",
+        "descricao": "PATRIMONIO LIQUIDO"
+    },
+    {
+        "id": 400,
+        "classificacao": "2501",
+        "tipo": "S",
+        "descricao": "CAPITAL SOCIAL"
+    },
+    {
+        "id": 401,
+        "classificacao": "250101",
+        "tipo": "S",
+        "descricao": "CAPITAL SOCIAL"
+    },
+    {
+        "id": 402,
+        "classificacao": "2501010001",
+        "tipo": "A",
+        "descricao": "CAPITAL SOCIAL"
+    },
+    {
+        "id": 403,
+        "classificacao": "2502",
+        "tipo": "S",
+        "descricao": "CAPITAL SOCIAL"
+    },
+    {
+        "id": 404,
+        "classificacao": "250201",
+        "tipo": "S",
+        "descricao": "CAPITAL SOCIAL"
+    },
+    {
+        "id": 405,
+        "classificacao": "2502010025",
+        "tipo": "A",
+        "descricao": "TESOURARIA"
+    },
+    {
+        "id": 406,
+        "classificacao": "250202",
+        "tipo": "S",
+        "descricao": "CAPITAL SOCIAL A INTEGRALIZAR"
+    },
+    {
+        "id": 407,
+        "classificacao": "2502020001",
+        "tipo": "A",
+        "descricao": "CAPITAL SOCIAL A INTEGRALIZAR"
+    },
+    {
+        "id": 408,
+        "classificacao": "250203",
+        "tipo": "S",
+        "descricao": "ADIANTAMENTO PARA FUTURO AUMENTO DE CAPITAL - AFAC"
+    },
+    {
+        "id": 409,
+        "classificacao": "251",
+        "tipo": "S",
+        "descricao": "RESERVAS DE CAPITAL"
+    },
+    {
+        "id": 410,
+        "classificacao": "2511",
+        "tipo": "S",
+        "descricao": "ADIANTAMENTO PARA FUTURO AUMENTO DE CAPITAL (AFAC)"
+    },
+    {
+        "id": 411,
+        "classificacao": "251101",
+        "tipo": "S",
+        "descricao": "ADIANTAMENTO PARA FUTURO AUMENTO DE CAPITAL (AFAC)"
+    },
+    {
+        "id": 412,
+        "classificacao": "2511010001",
+        "tipo": "A",
+        "descricao": "ADIANTAMENTO PARA FUTURO AUMENTO DE CAPITAL (AFAC)"
+    },
+    {
+        "id": 413,
+        "classificacao": "2511010002",
+        "tipo": "A",
+        "descricao": "CAPITAL DE GIRO"
+    },
+    {
+        "id": 414,
+        "classificacao": "2512",
+        "tipo": "S",
+        "descricao": "RESERVAS DE REAVALIACAO"
+    },
+    {
+        "id": 415,
+        "classificacao": "251201",
+        "tipo": "S",
+        "descricao": "AJUSTES DE AVALIA‚ÌO PATRIMONIAL"
+    },
+    {
+        "id": 416,
+        "classificacao": "2512010001",
+        "tipo": "A",
+        "descricao": "AJUSTES DE AVALIA‚ÌO PATRIMONIAL"
+    },
+    {
+        "id": 417,
+        "classificacao": "2513",
+        "tipo": "S",
+        "descricao": "RESERVAS DE LUCRO"
+    },
+    {
+        "id": 418,
+        "classificacao": "251301",
+        "tipo": "S",
+        "descricao": "RESERVA LEGAL"
+    },
+    {
+        "id": 419,
+        "classificacao": "2513010001",
+        "tipo": "A",
+        "descricao": "RESERVA LEGAL"
+    },
+    {
+        "id": 420,
+        "classificacao": "251302",
+        "tipo": "S",
+        "descricao": "RESERVAS ESTATUTARIAS"
+    },
+    {
+        "id": 421,
+        "classificacao": "2513020001",
+        "tipo": "A",
+        "descricao": "RESERVAS ESTATUTARIAS"
+    },
+    {
+        "id": 422,
+        "classificacao": "251303",
+        "tipo": "S",
+        "descricao": "RESERVA DE LUCROS A REALIZAR"
+    },
+    {
+        "id": 423,
+        "classificacao": "2513030001",
+        "tipo": "A",
+        "descricao": "RESERVA DE LUCRO A REALIZAR"
+    },
+    {
+        "id": 424,
+        "classificacao": "2513030002",
+        "tipo": "A",
+        "descricao": "RESERVA DE CONTIGENCIA"
+    },
+    {
+        "id": 425,
+        "classificacao": "252",
+        "tipo": "S",
+        "descricao": "PREJUIZO"
+    },
+    {
+        "id": 426,
+        "classificacao": "2521",
+        "tipo": "S",
+        "descricao": "PREJUIZO"
+    },
+    {
+        "id": 427,
+        "classificacao": "252101",
+        "tipo": "S",
+        "descricao": "PREJUIZO ACUMULADO"
+    },
+    {
+        "id": 428,
+        "classificacao": "2521010001",
+        "tipo": "A",
+        "descricao": "PREJUIZO ACUMULADO"
+    },
+    {
+        "id": 429,
+        "classificacao": "2521010002",
+        "tipo": "A",
+        "descricao": "PREJUIZO DO PERIODO"
+    },
+    {
+        "id": 430,
+        "classificacao": "252103",
+        "tipo": "S",
+        "descricao": "ACOES EM TESOURARIA"
+    },
+    {
+        "id": 431,
+        "classificacao": "2521030001",
+        "tipo": "A",
+        "descricao": "ACOES EM TESOURARIA"
+    },
+    {
+        "id": 432,
+        "classificacao": "252104",
+        "tipo": "S",
+        "descricao": "AJUSTES DE EXERCêCIOS ANTERIORES"
+    },
+    {
+        "id": 433,
+        "classificacao": "2521040001",
+        "tipo": "A",
+        "descricao": "AJUSTES DE EXERCêCIOS ANTERIORES"
+    },
+    {
+        "id": 434,
+        "classificacao": "253",
+        "tipo": "S",
+        "descricao": "LUCRO"
+    },
+    {
+        "id": 435,
+        "classificacao": "2531",
+        "tipo": "S",
+        "descricao": "LUCRO"
+    },
+    {
+        "id": 436,
+        "classificacao": "253101",
+        "tipo": "S",
+        "descricao": "LUCRO DO PERIODO"
+    },
+    {
+        "id": 437,
+        "classificacao": "2531010001",
+        "tipo": "A",
+        "descricao": "LUCRO DO EXERCICIO"
+    },
+    {
+        "id": 438,
+        "classificacao": "2531010002",
+        "tipo": "A",
+        "descricao": "LUCRO  A REALIZAR"
+    },
+    {
+        "id": 439,
+        "classificacao": "2531010003",
+        "tipo": "A",
+        "descricao": "LUCRO TRIMESTRAL"
+    },
+    {
+        "id": 440,
+        "classificacao": "254",
+        "tipo": "S",
+        "descricao": "ADIANTAMENTO DE LUCROS E DIVIDENDOS"
+    },
+    {
+        "id": 441,
+        "classificacao": "2541",
+        "tipo": "S",
+        "descricao": "ADIANTAMENTO DE LUCROS E DIVIDENDOS"
+    },
+    {
+        "id": 442,
+        "classificacao": "254101",
+        "tipo": "S",
+        "descricao": "ADIANTAMENTO DE LUCROS E DIVIDENDOS"
+    },
+    {
+        "id": 443,
+        "classificacao": "2541010001",
+        "tipo": "A",
+        "descricao": "ADIANTAMENTO DE LUCROS E DIVIDENDOS"
+    },
+    {
+        "id": 444,
+        "classificacao": "3",
+        "tipo": "S",
+        "descricao": "RECEITAS"
+    },
+    {
+        "id": 445,
+        "classificacao": "31",
+        "tipo": "S",
+        "descricao": "RECEITAS"
+    },
+    {
+        "id": 446,
+        "classificacao": "311",
+        "tipo": "S",
+        "descricao": "RECEITA OPERACIONAL"
+    },
+    {
+        "id": 447,
+        "classificacao": "3111",
+        "tipo": "S",
+        "descricao": "RECEITA S/ VENDA DE PRODUTOS"
+    },
+    {
+        "id": 448,
+        "classificacao": "311101",
+        "tipo": "S",
+        "descricao": "VENDA DE PRODUTOS"
+    },
+    {
+        "id": 449,
+        "classificacao": "3111010001",
+        "tipo": "A",
+        "descricao": "VENDA DE PRODUTOS A VISTA - DƒBITO"
+    },
+    {
+        "id": 450,
+        "classificacao": "3111010002",
+        "tipo": "A",
+        "descricao": "VENDA DE PRODUTOS A PRAZO - CRƒDITO A VISTA"
+    },
+    {
+        "id": 451,
+        "classificacao": "3111010003",
+        "tipo": "A",
+        "descricao": "(-) RECEBIMENTOS FUTUROS"
+    },
+    {
+        "id": 452,
+        "classificacao": "3111010004",
+        "tipo": "A",
+        "descricao": "VENDA DE PRODUTOS A VISTA - PIX"
+    },
+    {
+        "id": 453,
+        "classificacao": "3111010005",
+        "tipo": "A",
+        "descricao": "VENDA DE PRODUTOS A PRAZO - PARCELADO"
+    },
+    {
+        "id": 454,
+        "classificacao": "3111010006",
+        "tipo": "A",
+        "descricao": "VENDA DE PRODUTOS A VISTA - DINHEIRO"
+    },
+    {
+        "id": 455,
+        "classificacao": "311103",
+        "tipo": "S",
+        "descricao": "(-) DEVOLUCAO DE VENDAS"
+    },
+    {
+        "id": 456,
+        "classificacao": "3111030001",
+        "tipo": "A",
+        "descricao": "(-) DEVOLUCAO DE VENDAS"
+    },
+    {
+        "id": 457,
+        "classificacao": "3112",
+        "tipo": "S",
+        "descricao": "REVENDA DE MERCADORIAS"
+    },
+    {
+        "id": 458,
+        "classificacao": "311201",
+        "tipo": "S",
+        "descricao": "REVENDA DE MERCADORIAS MATRIZ"
+    },
+    {
+        "id": 459,
+        "classificacao": "3112010001",
+        "tipo": "A",
+        "descricao": "REVENDA DE MERCADORIAS A VISTA"
+    },
+    {
+        "id": 460,
+        "classificacao": "3112010002",
+        "tipo": "A",
+        "descricao": "REVENDA DE MERCADORIA A PRAZO"
+    },
+    {
+        "id": 461,
+        "classificacao": "311203",
+        "tipo": "S",
+        "descricao": "(-) DEVOLUCAO DE VENDAS"
+    },
+    {
+        "id": 462,
+        "classificacao": "3112030001",
+        "tipo": "A",
+        "descricao": "(-) DEVOLUCAO DE VENDAS"
+    },
+    {
+        "id": 463,
+        "classificacao": "3113",
+        "tipo": "S",
+        "descricao": "RECEITA S/ PRESTACAO SERVICOS"
+    },
+    {
+        "id": 464,
+        "classificacao": "311301",
+        "tipo": "S",
+        "descricao": "PRESTACAO DE SERVICOS"
+    },
+    {
+        "id": 465,
+        "classificacao": "3113010001",
+        "tipo": "A",
+        "descricao": "SERVICOS PRESTADOS A VISTA"
+    },
+    {
+        "id": 466,
+        "classificacao": "3113010002",
+        "tipo": "A",
+        "descricao": "SERVI‚OS PRESTACAO A PRAZO"
+    },
+    {
+        "id": 467,
+        "classificacao": "3113010003",
+        "tipo": "A",
+        "descricao": "SERVI‚OS PRESTADOS PARA O EXTERIOR"
+    },
+    {
+        "id": 468,
+        "classificacao": "3113010004",
+        "tipo": "A",
+        "descricao": "RECEITA DE ALUGUEL"
+    },
+    {
+        "id": 469,
+        "classificacao": "3114",
+        "tipo": "S",
+        "descricao": "RENDAS DE OPERA‚ÍES FINANCEIRAS"
+    },
+    {
+        "id": 470,
+        "classificacao": "311401",
+        "tipo": "S",
+        "descricao": "RENDAS DE OPERA‚ÍES FINANCEIRAS"
+    },
+    {
+        "id": 471,
+        "classificacao": "3114010001",
+        "tipo": "A",
+        "descricao": "RECEITA DE JUROS S/ EMPRESTIMOS"
+    },
+    {
+        "id": 472,
+        "classificacao": "3115",
+        "tipo": "S",
+        "descricao": "(-) DEDUCOES DAS RECEITAS"
+    },
+    {
+        "id": 473,
+        "classificacao": "311501",
+        "tipo": "S",
+        "descricao": "DESCONTOS"
+    },
+    {
+        "id": 474,
+        "classificacao": "3115010001",
+        "tipo": "A",
+        "descricao": "DESCONTOS"
+    },
+    {
+        "id": 475,
+        "classificacao": "3115010002",
+        "tipo": "A",
+        "descricao": "ESTORNO"
+    },
+    {
+        "id": 476,
+        "classificacao": "311502",
+        "tipo": "S",
+        "descricao": "IMPOSTOS"
+    },
+    {
+        "id": 477,
+        "classificacao": "3115020001",
+        "tipo": "A",
+        "descricao": "(-) ICMS"
+    },
+    {
+        "id": 478,
+        "classificacao": "3115020002",
+        "tipo": "A",
+        "descricao": "(-) ISS"
+    },
+    {
+        "id": 479,
+        "classificacao": "3115020003",
+        "tipo": "A",
+        "descricao": "(-) PIS"
+    },
+    {
+        "id": 480,
+        "classificacao": "3115020004",
+        "tipo": "A",
+        "descricao": "(-) COFINS"
+    },
+    {
+        "id": 481,
+        "classificacao": "3115020005",
+        "tipo": "A",
+        "descricao": "(-) IOF"
+    },
+    {
+        "id": 482,
+        "classificacao": "3115020006",
+        "tipo": "A",
+        "descricao": "(-) IRPJ"
+    },
+    {
+        "id": 483,
+        "classificacao": "3115020007",
+        "tipo": "A",
+        "descricao": "(-) CSLL"
+    },
+    {
+        "id": 484,
+        "classificacao": "3115020008",
+        "tipo": "A",
+        "descricao": "(-) SIMPLES"
+    },
+    {
+        "id": 485,
+        "classificacao": "3115020009",
+        "tipo": "A",
+        "descricao": "(-) INSS"
+    },
+    {
+        "id": 486,
+        "classificacao": "312",
+        "tipo": "S",
+        "descricao": "OUTRAS RECEITAS OPERACIONAIS"
+    },
+    {
+        "id": 487,
+        "classificacao": "3121",
+        "tipo": "S",
+        "descricao": "RECEITAS FINANCEIRAS"
+    },
+    {
+        "id": 488,
+        "classificacao": "312101",
+        "tipo": "S",
+        "descricao": "RECEITAS FINANCEIRAS"
+    },
+    {
+        "id": 489,
+        "classificacao": "3121010001",
+        "tipo": "A",
+        "descricao": "JUROS ATIVOS"
+    },
+    {
+        "id": 490,
+        "classificacao": "3121010002",
+        "tipo": "A",
+        "descricao": "COMISSOES"
+    },
+    {
+        "id": 491,
+        "classificacao": "3121010003",
+        "tipo": "A",
+        "descricao": "DESCONTOS OBTIDOS"
+    },
+    {
+        "id": 492,
+        "classificacao": "3121010004",
+        "tipo": "A",
+        "descricao": "VARIACOES MONETARIAS ATIVAS"
+    },
+    {
+        "id": 493,
+        "classificacao": "3121010005",
+        "tipo": "A",
+        "descricao": "RENDIMENTOS DE APLICA‚ÌO FINANCEIRA"
+    },
+    {
+        "id": 494,
+        "classificacao": "3121010006",
+        "tipo": "A",
+        "descricao": "OUTRAS RECEITAS"
+    },
+    {
+        "id": 495,
+        "classificacao": "3121010007",
+        "tipo": "A",
+        "descricao": "RECEITA DE CONTRIBUI‚ÍES DE ASSOCIADOS"
+    },
+    {
+        "id": 496,
+        "classificacao": "3121010008",
+        "tipo": "A",
+        "descricao": "INVESTIMENTO POR TERCEIROS"
+    },
+    {
+        "id": 497,
+        "classificacao": "3121010009",
+        "tipo": "A",
+        "descricao": "RECEITAS DE JUROS S/ EMPRƒSTIMOS"
+    },
+    {
+        "id": 498,
+        "classificacao": "3121010010",
+        "tipo": "A",
+        "descricao": "CASHBACK"
+    },
+    {
+        "id": 499,
+        "classificacao": "3121010011",
+        "tipo": "A",
+        "descricao": "JUROS RECEBIDOS SOBRE CAPITAL PRîPRIO"
+    },
+    {
+        "id": 500,
+        "classificacao": "3121010012",
+        "tipo": "A",
+        "descricao": "MULTAS DE MORA"
+    },
+    {
+        "id": 501,
+        "classificacao": "3121010014",
+        "tipo": "A",
+        "descricao": "JUROS REMUNERATORIOS"
+    },
+    {
+        "id": 502,
+        "classificacao": "3121010015",
+        "tipo": "A",
+        "descricao": "SUBVENCOES ECONOMICAS"
+    },
+    {
+        "id": 503,
+        "classificacao": "312102",
+        "tipo": "S",
+        "descricao": "RESULTADOS POSITIVOS"
+    },
+    {
+        "id": 504,
+        "classificacao": "3121020001",
+        "tipo": "A",
+        "descricao": "RESULT. PARTICIP. SOCIETARIA"
+    },
+    {
+        "id": 505,
+        "classificacao": "3121020002",
+        "tipo": "A",
+        "descricao": "RESULT. SOC. CONTA DE PARTICIP"
+    },
+    {
+        "id": 506,
+        "classificacao": "3122",
+        "tipo": "S",
+        "descricao": "OUTRAS RECEITAS OPERACIONAIS"
+    },
+    {
+        "id": 507,
+        "classificacao": "312201",
+        "tipo": "S",
+        "descricao": "OUTRAS RECEITAS OPERACIONAIS"
+    },
+    {
+        "id": 508,
+        "classificacao": "3122010001",
+        "tipo": "A",
+        "descricao": "OUTRAS RECEITAS OPERACIONAIS"
+    },
+    {
+        "id": 509,
+        "classificacao": "3122010002",
+        "tipo": "A",
+        "descricao": "RECUPERACAO DE DESPESAS"
+    },
+    {
+        "id": 510,
+        "classificacao": "3122010003",
+        "tipo": "A",
+        "descricao": "RECEITAS EVENTUAIS"
+    },
+    {
+        "id": 511,
+        "classificacao": "3122010004",
+        "tipo": "A",
+        "descricao": "RECEITAS DE MENSALIDADES"
+    },
+    {
+        "id": 512,
+        "classificacao": "3123",
+        "tipo": "S",
+        "descricao": "RECEITAS NÌO OPERACIONAIS"
+    },
+    {
+        "id": 513,
+        "classificacao": "312301",
+        "tipo": "S",
+        "descricao": "RECEITAS NÌO OPERACIONAIS"
+    },
+    {
+        "id": 514,
+        "classificacao": "3123010001",
+        "tipo": "A",
+        "descricao": "RECEITAS NÌO OPERACIONAIS"
+    },
+    {
+        "id": 515,
+        "classificacao": "3123010002",
+        "tipo": "A",
+        "descricao": "GANHO DE CAPITAL C/ IMOBILIZADO"
+    },
+    {
+        "id": 516,
+        "classificacao": "3123010003",
+        "tipo": "A",
+        "descricao": "RECEITAS EVENTUAIS"
+    },
+    {
+        "id": 517,
+        "classificacao": "32",
+        "tipo": "S",
+        "descricao": "CONTAS TRANSITîRIAS"
+    },
+    {
+        "id": 518,
+        "classificacao": "321",
+        "tipo": "S",
+        "descricao": "CONTAS TRANSITîRIAS"
+    },
+    {
+        "id": 519,
+        "classificacao": "3210",
+        "tipo": "S",
+        "descricao": "CONTA TRANSITîRIA"
+    },
+    {
+        "id": 520,
+        "classificacao": "321001",
+        "tipo": "S",
+        "descricao": "CONTAS TRANSITîRIAS"
+    },
+    {
+        "id": 521,
+        "classificacao": "3210010001",
+        "tipo": "A",
+        "descricao": "RECEBIMENTO DE ALVARA"
+    },
+    {
+        "id": 522,
+        "classificacao": "3210010002",
+        "tipo": "A",
+        "descricao": "(-) REPASSE DE ALVARA"
+    },
+    {
+        "id": 523,
+        "classificacao": "3210010003",
+        "tipo": "A",
+        "descricao": "RECEITAS  TRANSITORIAS"
+    },
+    {
+        "id": 524,
+        "classificacao": "3210010004",
+        "tipo": "A",
+        "descricao": "(-) REPASSE DE COMISSAO"
+    },
+    {
+        "id": 525,
+        "classificacao": "3210010005",
+        "tipo": "A",
+        "descricao": "REPASSE DE ALUGUEL"
+    },
+    {
+        "id": 526,
+        "classificacao": "3210010006",
+        "tipo": "A",
+        "descricao": "REPASSE DE VALORES"
+    },
+    {
+        "id": 527,
+        "classificacao": "4",
+        "tipo": "S",
+        "descricao": "CUSTOS E DESPESAS"
+    },
+    {
+        "id": 528,
+        "classificacao": "41",
+        "tipo": "S",
+        "descricao": "CUSTOS DOS BENS E SERVICOS"
+    },
+    {
+        "id": 529,
+        "classificacao": "411",
+        "tipo": "S",
+        "descricao": "CUSTOS DOS BENS E SERVICOS"
+    },
+    {
+        "id": 530,
+        "classificacao": "4111",
+        "tipo": "S",
+        "descricao": "ACELERACAO DE STARTUPS"
+    },
+    {
+        "id": 531,
+        "classificacao": "411101",
+        "tipo": "S",
+        "descricao": "ACELERACAO DE STARTUPS"
+    },
+    {
+        "id": 532,
+        "classificacao": "4111010001",
+        "tipo": "A",
+        "descricao": "CAMP"
+    },
+    {
+        "id": 533,
+        "classificacao": "4111010002",
+        "tipo": "A",
+        "descricao": "DESPERTART"
+    },
+    {
+        "id": 534,
+        "classificacao": "4111010003",
+        "tipo": "A",
+        "descricao": "BPO FINENCEIRO"
+    },
+    {
+        "id": 535,
+        "classificacao": "4112",
+        "tipo": "S",
+        "descricao": "COMPRAS DE PRODUTOS"
+    },
+    {
+        "id": 536,
+        "classificacao": "411201",
+        "tipo": "S",
+        "descricao": "COMPRAS DE PRODUTOS"
+    },
+    {
+        "id": 537,
+        "classificacao": "4112010001",
+        "tipo": "A",
+        "descricao": "COMPRAS DE PRODUTOS A VISTA"
+    },
+    {
+        "id": 538,
+        "classificacao": "4112010002",
+        "tipo": "A",
+        "descricao": "COMPRAS DE PRODUTOS A PRAZO"
+    },
+    {
+        "id": 539,
+        "classificacao": "4112010003",
+        "tipo": "A",
+        "descricao": "(-) IPI S/ ENTRADAS"
+    },
+    {
+        "id": 540,
+        "classificacao": "4112010004",
+        "tipo": "A",
+        "descricao": "COMPRAS CAFETERIA"
+    },
+    {
+        "id": 541,
+        "classificacao": "4112010005",
+        "tipo": "A",
+        "descricao": "COMPRAS GROWSHOP"
+    },
+    {
+        "id": 542,
+        "classificacao": "4112010006",
+        "tipo": "A",
+        "descricao": "COMPRAS HEADSHOP"
+    },
+    {
+        "id": 543,
+        "classificacao": "4112010007",
+        "tipo": "A",
+        "descricao": "COMPRAS PRODUTOS TERPENADOS"
+    },
+    {
+        "id": 544,
+        "classificacao": "411202",
+        "tipo": "S",
+        "descricao": "(-) DEVOLUCOES DE COMPRAS"
+    },
+    {
+        "id": 545,
+        "classificacao": "4112020001",
+        "tipo": "A",
+        "descricao": "(-) DEVOLUCOES DE COMPRAS"
+    },
+    {
+        "id": 546,
+        "classificacao": "411203",
+        "tipo": "S",
+        "descricao": "(-) DEDUCOES DAS COMPRAS"
+    },
+    {
+        "id": 547,
+        "classificacao": "4112030001",
+        "tipo": "A",
+        "descricao": "ICMS"
+    },
+    {
+        "id": 548,
+        "classificacao": "411204",
+        "tipo": "S",
+        "descricao": "PRODUTOS TRANSFERIDOS"
+    },
+    {
+        "id": 549,
+        "classificacao": "4112040001",
+        "tipo": "A",
+        "descricao": "PRODUTOS TRANSFERIDOS"
+    },
+    {
+        "id": 550,
+        "classificacao": "4113",
+        "tipo": "S",
+        "descricao": "GASTOS C/ PESSOAL"
+    },
+    {
+        "id": 551,
+        "classificacao": "411301",
+        "tipo": "S",
+        "descricao": "GASTOS C/ PESSOAL"
+    },
+    {
+        "id": 552,
+        "classificacao": "4113010001",
+        "tipo": "A",
+        "descricao": "REMUNERACAO DE DIRIGENTES"
+    },
+    {
+        "id": 553,
+        "classificacao": "4113010002",
+        "tipo": "A",
+        "descricao": "SALARIOS E ORDENADOS"
+    },
+    {
+        "id": 554,
+        "classificacao": "4113010003",
+        "tipo": "A",
+        "descricao": "FERIAS"
+    },
+    {
+        "id": 555,
+        "classificacao": "4113010004",
+        "tipo": "A",
+        "descricao": "13. SALARIO"
+    },
+    {
+        "id": 556,
+        "classificacao": "4113010005",
+        "tipo": "A",
+        "descricao": "PREVIDENCIA SOCIAL"
+    },
+    {
+        "id": 557,
+        "classificacao": "4113010006",
+        "tipo": "A",
+        "descricao": "FUNDO DE GARANTIA (FGTS)"
+    },
+    {
+        "id": 558,
+        "classificacao": "4113010007",
+        "tipo": "A",
+        "descricao": "AVISO PREVIO"
+    },
+    {
+        "id": 559,
+        "classificacao": "4113010008",
+        "tipo": "A",
+        "descricao": "SEGURO DE ACIDENTE DO TRABALHO"
+    },
+    {
+        "id": 560,
+        "classificacao": "4113010009",
+        "tipo": "A",
+        "descricao": "REFEICOES E LANCHES"
+    },
+    {
+        "id": 561,
+        "classificacao": "4113010010",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ TRANSPORTES"
+    },
+    {
+        "id": 562,
+        "classificacao": "4114",
+        "tipo": "S",
+        "descricao": "GASTOS GERAIS DE FABRICACAO"
+    },
+    {
+        "id": 563,
+        "classificacao": "411401",
+        "tipo": "S",
+        "descricao": "GASTOS GERAIS DE FABRICACAO"
+    },
+    {
+        "id": 564,
+        "classificacao": "4114010001",
+        "tipo": "A",
+        "descricao": "AGUA E LUZ"
+    },
+    {
+        "id": 565,
+        "classificacao": "4114010002",
+        "tipo": "A",
+        "descricao": "SEGUROS C/ FOGO"
+    },
+    {
+        "id": 566,
+        "classificacao": "4114010003",
+        "tipo": "A",
+        "descricao": "ALUGUEIS"
+    },
+    {
+        "id": 567,
+        "classificacao": "4114010004",
+        "tipo": "A",
+        "descricao": "MANUTENCAO E REPARO DE BENS"
+    },
+    {
+        "id": 568,
+        "classificacao": "4114010005",
+        "tipo": "A",
+        "descricao": "ARRENDAMENTO MERCANTIL"
+    },
+    {
+        "id": 569,
+        "classificacao": "4114010006",
+        "tipo": "A",
+        "descricao": "DEPRECIACAO"
+    },
+    {
+        "id": 570,
+        "classificacao": "4114010007",
+        "tipo": "A",
+        "descricao": "AMORTIZACAO"
+    },
+    {
+        "id": 571,
+        "classificacao": "4114010008",
+        "tipo": "A",
+        "descricao": "COMBUSTIVEIS E LUBRIFICANTES"
+    },
+    {
+        "id": 572,
+        "classificacao": "4114010009",
+        "tipo": "A",
+        "descricao": "MATERIAIS DE USO E CONSUMO"
+    },
+    {
+        "id": 573,
+        "classificacao": "4114010010",
+        "tipo": "A",
+        "descricao": "MATERIAL DE LIMPEZA"
+    },
+    {
+        "id": 574,
+        "classificacao": "4114010011",
+        "tipo": "A",
+        "descricao": "IPTU"
+    },
+    {
+        "id": 575,
+        "classificacao": "4114010012",
+        "tipo": "A",
+        "descricao": "SERVICOS DE TERCEIROS"
+    },
+    {
+        "id": 576,
+        "classificacao": "4114010013",
+        "tipo": "A",
+        "descricao": "OUTRAS DESPESAS DE FABRICACAO"
+    },
+    {
+        "id": 577,
+        "classificacao": "4115",
+        "tipo": "S",
+        "descricao": "(-) ESTOQUE FINAL DE PRODUTOS"
+    },
+    {
+        "id": 578,
+        "classificacao": "411501",
+        "tipo": "S",
+        "descricao": "(-) ESTOQUE FINAL DE PRODUTOS"
+    },
+    {
+        "id": 579,
+        "classificacao": "4115010001",
+        "tipo": "A",
+        "descricao": "ESTOQUE FINAL DE PRODUTOS"
+    },
+    {
+        "id": 580,
+        "classificacao": "412",
+        "tipo": "S",
+        "descricao": "CUSTO DAS MERCAD. REVENDIDAS"
+    },
+    {
+        "id": 581,
+        "classificacao": "4121",
+        "tipo": "S",
+        "descricao": "ESTOQUE INICIAL"
+    },
+    {
+        "id": 582,
+        "classificacao": "412101",
+        "tipo": "S",
+        "descricao": "ESTOQUE INICIAL"
+    },
+    {
+        "id": 583,
+        "classificacao": "4121010001",
+        "tipo": "A",
+        "descricao": "ESTOQUE INICIAL"
+    },
+    {
+        "id": 584,
+        "classificacao": "4122",
+        "tipo": "S",
+        "descricao": "COMPRAS DE MERCADORIAS"
+    },
+    {
+        "id": 585,
+        "classificacao": "412201",
+        "tipo": "S",
+        "descricao": "COMPRAS DE MERCADORIAS"
+    },
+    {
+        "id": 586,
+        "classificacao": "4122010001",
+        "tipo": "A",
+        "descricao": "COMPRAS A VISTA"
+    },
+    {
+        "id": 587,
+        "classificacao": "4122010002",
+        "tipo": "A",
+        "descricao": "COMPRAS A PRAZO"
+    },
+    {
+        "id": 588,
+        "classificacao": "4122010003",
+        "tipo": "A",
+        "descricao": "(-) PIS DEDUZIDO DAS ENTRADAS"
+    },
+    {
+        "id": 589,
+        "classificacao": "4122010004",
+        "tipo": "A",
+        "descricao": "(-) COFINS DEDUZ. DAS ENTRADAS"
+    },
+    {
+        "id": 590,
+        "classificacao": "4122010005",
+        "tipo": "A",
+        "descricao": "CUSTO DO IMOVEL VENDIDO"
+    },
+    {
+        "id": 591,
+        "classificacao": "412208",
+        "tipo": "S",
+        "descricao": "(-) DEVOLUCOES DE COMPRAS"
+    },
+    {
+        "id": 592,
+        "classificacao": "4122080001",
+        "tipo": "A",
+        "descricao": "DEVOLUCOES DE COMPRAS"
+    },
+    {
+        "id": 593,
+        "classificacao": "412209",
+        "tipo": "S",
+        "descricao": "(-) DEDUCOES DAS COMPRAS"
+    },
+    {
+        "id": 594,
+        "classificacao": "4122090001",
+        "tipo": "A",
+        "descricao": "ICMS"
+    },
+    {
+        "id": 595,
+        "classificacao": "4123",
+        "tipo": "S",
+        "descricao": "(-) ESTOQUE FINAL DE MERCAD."
+    },
+    {
+        "id": 596,
+        "classificacao": "412301",
+        "tipo": "S",
+        "descricao": "(-) ESTOQUE FINAL DE MERCAD."
+    },
+    {
+        "id": 597,
+        "classificacao": "4123010001",
+        "tipo": "A",
+        "descricao": "ESTOQUE FINAL"
+    },
+    {
+        "id": 598,
+        "classificacao": "413",
+        "tipo": "S",
+        "descricao": "CUSTO DOS SERVICOS PRESTADOS"
+    },
+    {
+        "id": 599,
+        "classificacao": "4132",
+        "tipo": "S",
+        "descricao": "GASTOS C/ PESSOAL"
+    },
+    {
+        "id": 600,
+        "classificacao": "413201",
+        "tipo": "S",
+        "descricao": "GASTOS C/ PESSOAL"
+    },
+    {
+        "id": 601,
+        "classificacao": "4132010001",
+        "tipo": "A",
+        "descricao": "REMUNERACAO DE DIRIGENTES"
+    },
+    {
+        "id": 602,
+        "classificacao": "4132010002",
+        "tipo": "A",
+        "descricao": "SALARIOS E ORDENADOS"
+    },
+    {
+        "id": 603,
+        "classificacao": "4132010003",
+        "tipo": "A",
+        "descricao": "FERIAS"
+    },
+    {
+        "id": 604,
+        "classificacao": "4132010004",
+        "tipo": "A",
+        "descricao": "13. SALARIO"
+    },
+    {
+        "id": 605,
+        "classificacao": "4132010005",
+        "tipo": "A",
+        "descricao": "PREVIDENCIA SOCIAL"
+    },
+    {
+        "id": 606,
+        "classificacao": "4132010006",
+        "tipo": "A",
+        "descricao": "FUNDO DE GARANTIA - FGTS"
+    },
+    {
+        "id": 607,
+        "classificacao": "4132010007",
+        "tipo": "A",
+        "descricao": "AVISO PREVIO"
+    },
+    {
+        "id": 608,
+        "classificacao": "4132010008",
+        "tipo": "A",
+        "descricao": "SEGURO C/ ACIDENTE DO TRABALHO"
+    },
+    {
+        "id": 609,
+        "classificacao": "4132010009",
+        "tipo": "A",
+        "descricao": "REFEICOES E LANCHES"
+    },
+    {
+        "id": 610,
+        "classificacao": "4132010010",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ TRANSPORTE"
+    },
+    {
+        "id": 611,
+        "classificacao": "4132010011",
+        "tipo": "A",
+        "descricao": "HORAS EXTRAS"
+    },
+    {
+        "id": 612,
+        "classificacao": "4132010012",
+        "tipo": "A",
+        "descricao": "DSR - DESCANSO SEMANAL REMUNERADO"
+    },
+    {
+        "id": 613,
+        "classificacao": "42",
+        "tipo": "S",
+        "descricao": "RESULTADOS OPERACIONAIS"
+    },
+    {
+        "id": 614,
+        "classificacao": "421",
+        "tipo": "S",
+        "descricao": "DESPESAS OPERACIONAIS"
+    },
+    {
+        "id": 615,
+        "classificacao": "4210",
+        "tipo": "S",
+        "descricao": "DESP. GERAIS E ADMINISTRATIVAS"
+    },
+    {
+        "id": 616,
+        "classificacao": "421001",
+        "tipo": "S",
+        "descricao": "DESP. GERAIS E ADMINISTRATIVAS"
+    },
+    {
+        "id": 617,
+        "classificacao": "4210010001",
+        "tipo": "A",
+        "descricao": "AGUA"
+    },
+    {
+        "id": 618,
+        "classificacao": "4210010002",
+        "tipo": "A",
+        "descricao": "ALUGUEIS"
+    },
+    {
+        "id": 619,
+        "classificacao": "4210010003",
+        "tipo": "A",
+        "descricao": "CONDOMINIO"
+    },
+    {
+        "id": 620,
+        "classificacao": "4210010004",
+        "tipo": "A",
+        "descricao": "COMBUSTIVEIS E LUBRIFICANTES"
+    },
+    {
+        "id": 621,
+        "classificacao": "4210010005",
+        "tipo": "A",
+        "descricao": "MATERIAL DE ESCRITORIO"
+    },
+    {
+        "id": 622,
+        "classificacao": "4210010006",
+        "tipo": "A",
+        "descricao": "MATERIAL DE LIMPEZA"
+    },
+    {
+        "id": 623,
+        "classificacao": "4210010007",
+        "tipo": "A",
+        "descricao": "PUBLICACOES DIVERSAS"
+    },
+    {
+        "id": 624,
+        "classificacao": "4210010008",
+        "tipo": "A",
+        "descricao": "ASSISTENCIA CONTABIL E FISCAL"
+    },
+    {
+        "id": 625,
+        "classificacao": "4210010009",
+        "tipo": "A",
+        "descricao": "ASSISTENCIA JURIDICA"
+    },
+    {
+        "id": 626,
+        "classificacao": "4210010010",
+        "tipo": "A",
+        "descricao": "SERVICOS PREST. POR TERCEIROS"
+    },
+    {
+        "id": 627,
+        "classificacao": "4210010011",
+        "tipo": "A",
+        "descricao": "DESPESAS COM LETREIROS"
+    },
+    {
+        "id": 628,
+        "classificacao": "4210010012",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ VEICULOS"
+    },
+    {
+        "id": 629,
+        "classificacao": "4210010013",
+        "tipo": "A",
+        "descricao": "FRETES E CARRETOS"
+    },
+    {
+        "id": 630,
+        "classificacao": "4210010014",
+        "tipo": "A",
+        "descricao": "CUSTOS DE MATERIAIS APLICADOS"
+    },
+    {
+        "id": 631,
+        "classificacao": "4210010015",
+        "tipo": "A",
+        "descricao": "ESTACIONAMENTO"
+    },
+    {
+        "id": 632,
+        "classificacao": "4210010016",
+        "tipo": "A",
+        "descricao": "CARTORIO"
+    },
+    {
+        "id": 633,
+        "classificacao": "4210010017",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ VIAGENS"
+    },
+    {
+        "id": 634,
+        "classificacao": "4210010018",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ INSTALA‚ÌO"
+    },
+    {
+        "id": 635,
+        "classificacao": "4210010019",
+        "tipo": "A",
+        "descricao": "CERTIFICADO DIGITAL"
+    },
+    {
+        "id": 636,
+        "classificacao": "4210010020",
+        "tipo": "A",
+        "descricao": "DESPESAS ADMINISTRATIVAS DIVERSAS"
+    },
+    {
+        "id": 637,
+        "classificacao": "4210010021",
+        "tipo": "A",
+        "descricao": "INTERNET"
+    },
+    {
+        "id": 638,
+        "classificacao": "4210010022",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ CREDENCIAMENTO"
+    },
+    {
+        "id": 639,
+        "classificacao": "4210010023",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ INFORMATICA"
+    },
+    {
+        "id": 640,
+        "classificacao": "4210010024",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ CARTÌO DE CREDITO"
+    },
+    {
+        "id": 641,
+        "classificacao": "4210010025",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ TAXAS DIVERSAS"
+    },
+    {
+        "id": 642,
+        "classificacao": "4210010026",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ MANUTEN‚ÌO E CONSERVA‚ÌO"
+    },
+    {
+        "id": 643,
+        "classificacao": "4210010027",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ TELEFONE"
+    },
+    {
+        "id": 644,
+        "classificacao": "4210010028",
+        "tipo": "A",
+        "descricao": "ENERGIA ELƒTRICA"
+    },
+    {
+        "id": 645,
+        "classificacao": "4210010029",
+        "tipo": "A",
+        "descricao": "REEMBOLSO"
+    },
+    {
+        "id": 646,
+        "classificacao": "4210010030",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ ALIMENTA‚ÌO"
+    },
+    {
+        "id": 647,
+        "classificacao": "4210010031",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ TRANSPORTE"
+    },
+    {
+        "id": 648,
+        "classificacao": "4210010032",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ PROPAGANDA"
+    },
+    {
+        "id": 649,
+        "classificacao": "4210010033",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ MARKETING"
+    },
+    {
+        "id": 650,
+        "classificacao": "4210010034",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ EVENTOS"
+    },
+    {
+        "id": 651,
+        "classificacao": "4210010035",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ CONSULTORIA E ASSESSORIA"
+    },
+    {
+        "id": 652,
+        "classificacao": "4210010036",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ CURSOS E TREINAMENTOS"
+    },
+    {
+        "id": 653,
+        "classificacao": "4210010037",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ GRAFICA"
+    },
+    {
+        "id": 654,
+        "classificacao": "4210010038",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ PUBLICIDADE"
+    },
+    {
+        "id": 655,
+        "classificacao": "4210010039",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ DOA‚ÍES"
+    },
+    {
+        "id": 656,
+        "classificacao": "4210010040",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ CORREIOS"
+    },
+    {
+        "id": 657,
+        "classificacao": "4210010041",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ SEGUROS"
+    },
+    {
+        "id": 658,
+        "classificacao": "4210010042",
+        "tipo": "A",
+        "descricao": "MATERIAL DE EXPEDIENTE"
+    },
+    {
+        "id": 659,
+        "classificacao": "4210010043",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ FORNECEDORES"
+    },
+    {
+        "id": 660,
+        "classificacao": "4210010044",
+        "tipo": "A",
+        "descricao": "ALUGUEL DE MAQUINAS E EQUIPAMENTOS"
+    },
+    {
+        "id": 661,
+        "classificacao": "4210010045",
+        "tipo": "A",
+        "descricao": "ALUGUEL DE VEICULOS"
+    },
+    {
+        "id": 662,
+        "classificacao": "4210010046",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ CONSTRU‚ÌO"
+    },
+    {
+        "id": 663,
+        "classificacao": "4210010047",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ EMBALAGENS"
+    },
+    {
+        "id": 664,
+        "classificacao": "4210010048",
+        "tipo": "A",
+        "descricao": "MATERIAIS DE COZINHA"
+    },
+    {
+        "id": 665,
+        "classificacao": "4210010049",
+        "tipo": "A",
+        "descricao": "ALUGUEL DE MîVEIS E UTENSêLIOS"
+    },
+    {
+        "id": 666,
+        "classificacao": "4210010050",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ DEVEDORES DUVIDOSOS"
+    },
+    {
+        "id": 667,
+        "classificacao": "4210010051",
+        "tipo": "A",
+        "descricao": "JORNAIS E REVISTAS"
+    },
+    {
+        "id": 668,
+        "classificacao": "4210010052",
+        "tipo": "A",
+        "descricao": "DESPESAS JUDICIAIS"
+    },
+    {
+        "id": 669,
+        "classificacao": "4210010053",
+        "tipo": "A",
+        "descricao": "CONGRESSOS, EVENTOS, DIARIAS E AJUDA DE CUSTO"
+    },
+    {
+        "id": 670,
+        "classificacao": "4210010054",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ PROCESSAMENTO DE DADOS"
+    },
+    {
+        "id": 671,
+        "classificacao": "4210010055",
+        "tipo": "A",
+        "descricao": "ALUGUEL DE MAQUINA XEROX"
+    },
+    {
+        "id": 672,
+        "classificacao": "4210010056",
+        "tipo": "A",
+        "descricao": "CONDUCAO URBANA"
+    },
+    {
+        "id": 673,
+        "classificacao": "4210010057",
+        "tipo": "A",
+        "descricao": "ASSESSORIA DE IMPRENSA"
+    },
+    {
+        "id": 674,
+        "classificacao": "4210010058",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ BRINDES"
+    },
+    {
+        "id": 675,
+        "classificacao": "4210010059",
+        "tipo": "A",
+        "descricao": "ROYALTIES"
+    },
+    {
+        "id": 676,
+        "classificacao": "4210010060",
+        "tipo": "A",
+        "descricao": "BOLSA PESQUISA"
+    },
+    {
+        "id": 677,
+        "classificacao": "4210010061",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ CONSTRUCAO - OPERACAO"
+    },
+    {
+        "id": 678,
+        "classificacao": "4210010062",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ CONSTRUCAO - AVARIAS"
+    },
+    {
+        "id": 679,
+        "classificacao": "4210010063",
+        "tipo": "A",
+        "descricao": "SERVICOS-PJ"
+    },
+    {
+        "id": 680,
+        "classificacao": "4211",
+        "tipo": "S",
+        "descricao": "DESPESAS C/ PESSOAL"
+    },
+    {
+        "id": 681,
+        "classificacao": "421101",
+        "tipo": "S",
+        "descricao": "DESPESAS C/ PESSOAL"
+    },
+    {
+        "id": 682,
+        "classificacao": "4211010001",
+        "tipo": "A",
+        "descricao": "SALARIOS E ORDENADOS"
+    },
+    {
+        "id": 683,
+        "classificacao": "4211010002",
+        "tipo": "A",
+        "descricao": "PRO-LABORE"
+    },
+    {
+        "id": 684,
+        "classificacao": "4211010003",
+        "tipo": "A",
+        "descricao": "FERIAS"
+    },
+    {
+        "id": 685,
+        "classificacao": "4211010004",
+        "tipo": "A",
+        "descricao": "13. SALARIO"
+    },
+    {
+        "id": 686,
+        "classificacao": "4211010005",
+        "tipo": "A",
+        "descricao": "AVISO PREVIO"
+    },
+    {
+        "id": 687,
+        "classificacao": "4211010006",
+        "tipo": "A",
+        "descricao": "FGTS"
+    },
+    {
+        "id": 688,
+        "classificacao": "4211010007",
+        "tipo": "A",
+        "descricao": "PREVIDENCIA SOCIAL"
+    },
+    {
+        "id": 689,
+        "classificacao": "4211010008",
+        "tipo": "A",
+        "descricao": "SEGURO DE ACIDENTE DE TRABALHO"
+    },
+    {
+        "id": 690,
+        "classificacao": "4211010009",
+        "tipo": "A",
+        "descricao": "COMISSOES E CORRETAGENS"
+    },
+    {
+        "id": 691,
+        "classificacao": "4211010010",
+        "tipo": "A",
+        "descricao": "GRATIFICACOES"
+    },
+    {
+        "id": 692,
+        "classificacao": "4211010011",
+        "tipo": "A",
+        "descricao": "RECRUTAMENTO E TREINAMENTO"
+    },
+    {
+        "id": 693,
+        "classificacao": "4211010012",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ ALIMENTACAO"
+    },
+    {
+        "id": 694,
+        "classificacao": "4211010013",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ TRANSPORTE"
+    },
+    {
+        "id": 695,
+        "classificacao": "4211010014",
+        "tipo": "A",
+        "descricao": "SERVICOS MEDICOS E DENTARIOS"
+    },
+    {
+        "id": 696,
+        "classificacao": "4211010015",
+        "tipo": "A",
+        "descricao": "OUTRAS DESPESAS C/ PESSOAL"
+    },
+    {
+        "id": 697,
+        "classificacao": "4211010016",
+        "tipo": "A",
+        "descricao": "UNIFORMES"
+    },
+    {
+        "id": 698,
+        "classificacao": "4211010017",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ MEDICAMENTOS"
+    },
+    {
+        "id": 699,
+        "classificacao": "4211010018",
+        "tipo": "A",
+        "descricao": "INDENIZACOES"
+    },
+    {
+        "id": 700,
+        "classificacao": "4211010019",
+        "tipo": "A",
+        "descricao": "SALARIO FAMILIA"
+    },
+    {
+        "id": 701,
+        "classificacao": "4211010020",
+        "tipo": "A",
+        "descricao": "SALARIO MATERNIDADE"
+    },
+    {
+        "id": 702,
+        "classificacao": "4211010021",
+        "tipo": "A",
+        "descricao": "AUXILIO NATALIDADE"
+    },
+    {
+        "id": 703,
+        "classificacao": "4211010022",
+        "tipo": "A",
+        "descricao": "ANTECIPACAO DE DIVIDENDOS"
+    },
+    {
+        "id": 704,
+        "classificacao": "4211010023",
+        "tipo": "A",
+        "descricao": "PLANO DE SAUDE"
+    },
+    {
+        "id": 705,
+        "classificacao": "4211010024",
+        "tipo": "A",
+        "descricao": "IRRF S/ FOLHA DE PGTO"
+    },
+    {
+        "id": 706,
+        "classificacao": "4211010025",
+        "tipo": "A",
+        "descricao": "BOLSA ESTAGIO"
+    },
+    {
+        "id": 707,
+        "classificacao": "4211010026",
+        "tipo": "A",
+        "descricao": "ISS RPA"
+    },
+    {
+        "id": 708,
+        "classificacao": "4211010027",
+        "tipo": "A",
+        "descricao": "AUTONOMO - RPA"
+    },
+    {
+        "id": 709,
+        "classificacao": "4211010028",
+        "tipo": "A",
+        "descricao": "RESCISÌO CONTRATUAL"
+    },
+    {
+        "id": 710,
+        "classificacao": "4211010029",
+        "tipo": "A",
+        "descricao": "IRRF S/ RPA"
+    },
+    {
+        "id": 711,
+        "classificacao": "4211010030",
+        "tipo": "A",
+        "descricao": "DSR - DESCANSO SEMANAL REMUNERADO"
+    },
+    {
+        "id": 712,
+        "classificacao": "4211010031",
+        "tipo": "A",
+        "descricao": "ABONO PECUNIçRIO DE FƒRIAS"
+    },
+    {
+        "id": 713,
+        "classificacao": "4211010032",
+        "tipo": "A",
+        "descricao": "GRRF"
+    },
+    {
+        "id": 714,
+        "classificacao": "4212",
+        "tipo": "S",
+        "descricao": "DESPESAS FINANCEIRAS"
+    },
+    {
+        "id": 715,
+        "classificacao": "421201",
+        "tipo": "S",
+        "descricao": "DESPESAS FINANCEIRAS"
+    },
+    {
+        "id": 716,
+        "classificacao": "4212010001",
+        "tipo": "A",
+        "descricao": "JUROS P/ EMPRESTIMOS TOMADOS"
+    },
+    {
+        "id": 717,
+        "classificacao": "4212010002",
+        "tipo": "A",
+        "descricao": "VARIACOES MONETARIAS PASSIVAS"
+    },
+    {
+        "id": 718,
+        "classificacao": "4212010003",
+        "tipo": "A",
+        "descricao": "JUROS SOBRE O CAPITAL PROPRIO"
+    },
+    {
+        "id": 719,
+        "classificacao": "4212010004",
+        "tipo": "A",
+        "descricao": "MULTAS DE MORA"
+    },
+    {
+        "id": 720,
+        "classificacao": "4212010005",
+        "tipo": "A",
+        "descricao": "JUROS E MULTAS"
+    },
+    {
+        "id": 721,
+        "classificacao": "4212010006",
+        "tipo": "A",
+        "descricao": "TARIFAS BANCARIAS"
+    },
+    {
+        "id": 722,
+        "classificacao": "4212010007",
+        "tipo": "A",
+        "descricao": "DESCONTOS CONCEDIDOS"
+    },
+    {
+        "id": 723,
+        "classificacao": "4212010008",
+        "tipo": "A",
+        "descricao": "IOF"
+    },
+    {
+        "id": 724,
+        "classificacao": "4212010009",
+        "tipo": "A",
+        "descricao": "JUROS S/ FINANCIAMENTOS TOMADOS"
+    },
+    {
+        "id": 725,
+        "classificacao": "4213",
+        "tipo": "S",
+        "descricao": "OUTRAS DESPESAS OPERACIONAIS"
+    },
+    {
+        "id": 726,
+        "classificacao": "421301",
+        "tipo": "S",
+        "descricao": "DESPESAS TRIBUTARIAS"
+    },
+    {
+        "id": 727,
+        "classificacao": "4213010001",
+        "tipo": "A",
+        "descricao": "IMPOSTO SINDICAL"
+    },
+    {
+        "id": 728,
+        "classificacao": "4213010002",
+        "tipo": "A",
+        "descricao": "IMPOSTO DE RENDA"
+    },
+    {
+        "id": 729,
+        "classificacao": "4213010003",
+        "tipo": "A",
+        "descricao": "IPTU"
+    },
+    {
+        "id": 730,
+        "classificacao": "4213010004",
+        "tipo": "A",
+        "descricao": "CSLL"
+    },
+    {
+        "id": 731,
+        "classificacao": "4213010005",
+        "tipo": "A",
+        "descricao": "COFINS"
+    },
+    {
+        "id": 732,
+        "classificacao": "4213010006",
+        "tipo": "A",
+        "descricao": "PIS"
+    },
+    {
+        "id": 733,
+        "classificacao": "4213010007",
+        "tipo": "A",
+        "descricao": "IMPOSTOS E TAXAS DIVERSAS"
+    },
+    {
+        "id": 734,
+        "classificacao": "4213010008",
+        "tipo": "A",
+        "descricao": "SIMPLES NACIONAL"
+    },
+    {
+        "id": 735,
+        "classificacao": "4213010009",
+        "tipo": "A",
+        "descricao": "IRPJ"
+    },
+    {
+        "id": 736,
+        "classificacao": "4213010010",
+        "tipo": "A",
+        "descricao": "ISS"
+    },
+    {
+        "id": 737,
+        "classificacao": "4213010011",
+        "tipo": "A",
+        "descricao": "RETEN‚ÌO (PIS, COFINS, CSLL)"
+    },
+    {
+        "id": 738,
+        "classificacao": "4213010012",
+        "tipo": "A",
+        "descricao": "ICMS"
+    },
+    {
+        "id": 739,
+        "classificacao": "4213010020",
+        "tipo": "A",
+        "descricao": "IRRF"
+    },
+    {
+        "id": 740,
+        "classificacao": "4213010021",
+        "tipo": "A",
+        "descricao": "RETEN‚ÌO (ISS)"
+    },
+    {
+        "id": 741,
+        "classificacao": "4213010022",
+        "tipo": "A",
+        "descricao": "IPVA"
+    },
+    {
+        "id": 742,
+        "classificacao": "4213010023",
+        "tipo": "A",
+        "descricao": "IOF"
+    },
+    {
+        "id": 743,
+        "classificacao": "4213010024",
+        "tipo": "A",
+        "descricao": "MULTAS FISCAIS"
+    },
+    {
+        "id": 744,
+        "classificacao": "4213010025",
+        "tipo": "A",
+        "descricao": "ADICIONAL - IRPJ"
+    },
+    {
+        "id": 745,
+        "classificacao": "421302",
+        "tipo": "S",
+        "descricao": "OUTRAS DESPESAS OPERACIONAIS"
+    },
+    {
+        "id": 746,
+        "classificacao": "4213020001",
+        "tipo": "A",
+        "descricao": "DONATIVOS E CONTRIB. DIVERSAS"
+    },
+    {
+        "id": 747,
+        "classificacao": "4213020002",
+        "tipo": "A",
+        "descricao": "CAFE E MATERIAL DE LIMPEZA"
+    },
+    {
+        "id": 748,
+        "classificacao": "4213020003",
+        "tipo": "A",
+        "descricao": "CONDUCAO"
+    },
+    {
+        "id": 749,
+        "classificacao": "4213020004",
+        "tipo": "A",
+        "descricao": "QUEBRA DE CAIXA"
+    },
+    {
+        "id": 750,
+        "classificacao": "4213020005",
+        "tipo": "A",
+        "descricao": "QUEBRA DE ESTOQUES"
+    },
+    {
+        "id": 751,
+        "classificacao": "4213020006",
+        "tipo": "A",
+        "descricao": "SERVICOS DE TERCEIROS"
+    },
+    {
+        "id": 752,
+        "classificacao": "4213020007",
+        "tipo": "A",
+        "descricao": "SEGUROS DIVERSOS"
+    },
+    {
+        "id": 753,
+        "classificacao": "4213020008",
+        "tipo": "A",
+        "descricao": "DESPESAS C/ ALIMENTACAO"
+    },
+    {
+        "id": 754,
+        "classificacao": "421303",
+        "tipo": "S",
+        "descricao": "ENCARGOS DO EXERCICIO"
+    },
+    {
+        "id": 755,
+        "classificacao": "4213030001",
+        "tipo": "A",
+        "descricao": "COTA DE DEPRECIACAO"
+    },
+    {
+        "id": 756,
+        "classificacao": "4213030002",
+        "tipo": "A",
+        "descricao": "COTA DE AMORTIZACAO"
+    },
+    {
+        "id": 757,
+        "classificacao": "4213030003",
+        "tipo": "A",
+        "descricao": "AJUSTES E AMORTIZA‚OES"
+    },
+    {
+        "id": 758,
+        "classificacao": "43",
+        "tipo": "S",
+        "descricao": "RESULTADOS NAO OPERACIONAIS"
+    },
+    {
+        "id": 759,
+        "classificacao": "431",
+        "tipo": "S",
+        "descricao": "RECEITAS NAO OPERACIONAIS"
+    },
+    {
+        "id": 760,
+        "classificacao": "4311",
+        "tipo": "S",
+        "descricao": "RECEITAS NAO OPERACIONAIS"
+    },
+    {
+        "id": 761,
+        "classificacao": "431102",
+        "tipo": "S",
+        "descricao": "RECEITA S/ BENS E DIREITOS"
+    },
+    {
+        "id": 762,
+        "classificacao": "4311020001",
+        "tipo": "A",
+        "descricao": "ALUGUEIS DE BENS"
+    },
+    {
+        "id": 763,
+        "classificacao": "4311020002",
+        "tipo": "A",
+        "descricao": "ARRENDAMENTOS"
+    },
+    {
+        "id": 764,
+        "classificacao": "4311020003",
+        "tipo": "A",
+        "descricao": "RECEITAS DE INVESTIMENTOS"
+    },
+    {
+        "id": 765,
+        "classificacao": "4311020004",
+        "tipo": "A",
+        "descricao": "OUTRAS RECEITAS EVENTUAIS"
+    },
+    {
+        "id": 766,
+        "classificacao": "431103",
+        "tipo": "S",
+        "descricao": "RECUPERACOES DIVERSAS"
+    },
+    {
+        "id": 767,
+        "classificacao": "4311030001",
+        "tipo": "A",
+        "descricao": "DESPESAS RECUPERADAS"
+    },
+    {
+        "id": 768,
+        "classificacao": "4311030002",
+        "tipo": "A",
+        "descricao": "SEGUROS DE INCENDIOS RECEBIDOS"
+    },
+    {
+        "id": 769,
+        "classificacao": "431104",
+        "tipo": "S",
+        "descricao": "OUTRAS RECEITAS NAO OPER."
+    },
+    {
+        "id": 770,
+        "classificacao": "4311040001",
+        "tipo": "A",
+        "descricao": "RECEITAS DE JUROS P/ EMPRESTIMOS"
+    },
+    {
+        "id": 771,
+        "classificacao": "4311040002",
+        "tipo": "A",
+        "descricao": "RECEITA DE LUCRO E DIVIDENDOS"
+    },
+    {
+        "id": 772,
+        "classificacao": "4311040003",
+        "tipo": "A",
+        "descricao": "RECEITAS P/ EMISSÌO DE DEBæNTURES"
+    },
+    {
+        "id": 773,
+        "classificacao": "432",
+        "tipo": "S",
+        "descricao": "DESPESAS NAO OPERACIONAIS"
+    },
+    {
+        "id": 774,
+        "classificacao": "4321",
+        "tipo": "S",
+        "descricao": "DESPESAS NAO OPERACIONAIS"
+    },
+    {
+        "id": 775,
+        "classificacao": "432101",
+        "tipo": "S",
+        "descricao": "PERDAS POR ALIENACAO"
+    },
+    {
+        "id": 776,
+        "classificacao": "4321010001",
+        "tipo": "A",
+        "descricao": "PERDAS POR ALIENACAO DE INVEST"
+    },
+    {
+        "id": 777,
+        "classificacao": "4321010002",
+        "tipo": "A",
+        "descricao": "PERDAS POR ALIENACAO IMOB."
+    },
+    {
+        "id": 778,
+        "classificacao": "432102",
+        "tipo": "S",
+        "descricao": "OUTRAS DESPESAS NAO OPER."
+    },
+    {
+        "id": 779,
+        "classificacao": "4321020001",
+        "tipo": "A",
+        "descricao": "BOLSAS DE ESTUDOS EVENTUAIS"
+    },
+    {
+        "id": 780,
+        "classificacao": "4321020002",
+        "tipo": "A",
+        "descricao": "ASSIST. MEDICA HOSP. EVENTUAL"
+    },
+    {
+        "id": 781,
+        "classificacao": "4321020003",
+        "tipo": "A",
+        "descricao": "OUTRAS DESPESAS EVENTUAIS"
+    },
+    {
+        "id": 782,
+        "classificacao": "434",
+        "tipo": "S",
+        "descricao": "PROVISOES"
+    },
+    {
+        "id": 783,
+        "classificacao": "4341",
+        "tipo": "S",
+        "descricao": "PROV. P/ CONTRIBUICAO SOCIAL"
+    },
+    {
+        "id": 784,
+        "classificacao": "434101",
+        "tipo": "S",
+        "descricao": "PROV. P/ CONTRIBUICAO SOCIAL"
+    },
+    {
+        "id": 785,
+        "classificacao": "4341010001",
+        "tipo": "A",
+        "descricao": "PROV. P/ CONTRIBUICAO SOCIAL"
+    },
+    {
+        "id": 786,
+        "classificacao": "4342",
+        "tipo": "S",
+        "descricao": "PROVISAO P/ IMPOSTO DE RENDA"
+    },
+    {
+        "id": 787,
+        "classificacao": "434201",
+        "tipo": "S",
+        "descricao": "PROVISAO P/ IMPOSTO DE RENDA"
+    },
+    {
+        "id": 788,
+        "classificacao": "4342010001",
+        "tipo": "A",
+        "descricao": "PROVISAO P/ IMPOSTO DE RENDA"
+    },
+    {
+        "id": 789,
+        "classificacao": "4343",
+        "tipo": "S",
+        "descricao": "PROVISÌO P/ PERDAS/INADIPLENCIA"
+    },
+    {
+        "id": 790,
+        "classificacao": "434301",
+        "tipo": "S",
+        "descricao": "PROVISÌO P/ PERDAS/INADIPLENCIA"
+    },
+    {
+        "id": 791,
+        "classificacao": "4343010001",
+        "tipo": "A",
+        "descricao": "PROVISÌO PARA PERDAS/INADIPLENCIA"
+    },
+    {
+        "id": 792,
+        "classificacao": "435",
+        "tipo": "S",
+        "descricao": "(-) PARTICIPA‚ÍES"
+    },
+    {
+        "id": 793,
+        "classificacao": "4351",
+        "tipo": "S",
+        "descricao": "PARTICIPA‚ÍES"
+    },
+    {
+        "id": 794,
+        "classificacao": "435101",
+        "tipo": "S",
+        "descricao": "PARTICIPA‚ÍES DE DEBæNTURES"
+    },
+    {
+        "id": 795,
+        "classificacao": "4351010001",
+        "tipo": "A",
+        "descricao": "PARTICIPA‚ÍES DE DEBæNTURES"
+    },
+    {
+        "id": 796,
+        "classificacao": "435102",
+        "tipo": "S",
+        "descricao": "PARTICIPA‚ÍES DE EMPREGADOS"
+    },
+    {
+        "id": 797,
+        "classificacao": "4351020001",
+        "tipo": "A",
+        "descricao": "PARTICIPA‚ÍES DE EMPREGADOS"
+    },
+    {
+        "id": 798,
+        "classificacao": "435103",
+        "tipo": "S",
+        "descricao": "PARTICIPA‚ÍES DE ADMINISTRADORES"
+    },
+    {
+        "id": 799,
+        "classificacao": "4351030001",
+        "tipo": "A",
+        "descricao": "PARTICIPA‚ÍES DE ADMINISTRADORES"
+    },
+    {
+        "id": 800,
+        "classificacao": "435104",
+        "tipo": "S",
+        "descricao": "PARTICIPA‚ÍES DE PARTES BENEFICIçRIAS"
+    },
+    {
+        "id": 801,
+        "classificacao": "4351040001",
+        "tipo": "A",
+        "descricao": "PARTICIPA‚ÍES DE PARTES BENEFICIçRIAS"
+    },
+    {
+        "id": 802,
+        "classificacao": "435105",
+        "tipo": "S",
+        "descricao": "CONTRIBUI‚ÍES A FUNDOS DE ASSITT OU PREV"
+    },
+    {
+        "id": 803,
+        "classificacao": "4351050001",
+        "tipo": "A",
+        "descricao": "CONTRIBUI‚ÍES A FUNDOS DE ASSITT OU PREV"
+    },
+    {
+        "id": 804,
+        "classificacao": "5",
+        "tipo": "S",
+        "descricao": "APURACAO DE RESULTADOS"
+    },
+    {
+        "id": 805,
+        "classificacao": "51",
+        "tipo": "S",
+        "descricao": "APURACAO DE RESULTADOS"
+    },
+    {
+        "id": 806,
+        "classificacao": "511",
+        "tipo": "S",
+        "descricao": "APURACAO DE RESULTADOS"
+    },
+    {
+        "id": 807,
+        "classificacao": "5111",
+        "tipo": "S",
+        "descricao": "APURACAO DE RESULTADOS"
+    },
+    {
+        "id": 808,
+        "classificacao": "511101",
+        "tipo": "S",
+        "descricao": "APURACAO DE RESULTADOS"
+    },
+    {
+        "id": 809,
+        "classificacao": "5111010001",
+        "tipo": "A",
+        "descricao": "RESULTADO DO EXERCICIO"
+    },
+    {
+        "id": 810,
+        "classificacao": "5111010002",
+        "tipo": "A",
+        "descricao": "BALAN‚O DE ABERTURA"
+    },
+    {
+        "id": 811,
+        "classificacao": "5111010003",
+        "tipo": "A",
+        "descricao": "CONTAS TRANSITîRIAS"
+    },
+    {
+        "id": 812,
+        "classificacao": "2531010004",
+        "tipo": "A",
+        "descricao": "LUCRO ACUMULADOS"
+    },
+    {
+        "id": 813,
+        "classificacao": "1161010002",
+        "tipo": "A",
+        "descricao": "MATHEUS BARBOSA OLIVEIRA"
+    }
+]
