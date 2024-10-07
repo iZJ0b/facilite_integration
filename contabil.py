@@ -2,7 +2,7 @@ import requests
 from relacoes_contas.util import plano_contas, bancos
 from layouts import layout_lancContabil
 
-def exportar_financas(empresa_id):
+def exportar_financas(empresa_id: int):
     contas_contabeis = plano_contas()
     contas_bancos = bancos()
     url = "https://adminbackend.facilite.co/api/financas"
@@ -35,7 +35,11 @@ def exportar_financas(empresa_id):
         valor = lancamento['valor']
 
         if lancamento['descricaoClassificacao'] == "Não classificada":
-            naoClassificado.append(lancamento)
+            data_format = dataPagamento.split('T')[0].split('-')
+            dataLancamento = f"{data_format[-1]}/{data_format[1]}/{data_format[0]}"
+            valor_formatado = f"{valor:,.2f}".replace(',', '').replace('.', ',')
+
+            naoClassificado.append((dataLancamento, lancamento['descricao'], valor_formatado))
 
         else: 
             # verifica o codigo reduzido da contrapartida
@@ -48,9 +52,9 @@ def exportar_financas(empresa_id):
 
             text = layout_lancContabil(tipo_movimento, dataPagamento, codReduzido_banco, codReduzido_contrapartida, valor, descricao)
             layout_text += text
-    return layout_text
+    return layout_text, naoClassificado
 
-def cnpj_empresa(empresa_id):
+def cnpj_empresa(empresa_id: int):
     url = f"https://adminbackend.facilite.co/api/empresas/{empresa_id}"
     headers = {
     'Authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJlYXN5am9iIiwiYXV0aCI6IlJPTEVfRU1QUkVTQVMsUk9MRV9FU0NSSVRPUklPX0NPTlRBQklMSURBREUsUk9MRV9GSU5BTkNFSVJPLFJPTEVfRklTQ0FMLFJPTEVfR1JBRklDT1MsUk9MRV9QRVNTT0FMLFJPTEVfUFJPQ0VTU09TLFJPTEVfVVNFUiIsImV4cCI6MTcyOTM2MjA2N30.P_aARH0h07KaJCft68ijSz8qXNTR0yUzHRDpk0ExS_aBvglo248NL-zEdk6sVV5l3-cdUvr0TmBSyuPhEMt1xQ'
