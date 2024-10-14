@@ -2,15 +2,15 @@ import requests
 from relacoes_contas.util import plano_contas, bancos
 from layouts import layout_lancContabil
 
-def exportar_financas(empresa_id: int):
+def exportar_financas(empresa_id: int, dataInicial: str, dataFinal:str):
     contas_contabeis = plano_contas()
     contas_bancos = bancos()
     url = "https://adminbackend.facilite.co/api/financas"
 
     payload = {
         "empresaId": empresa_id,
-        "dataInicial": "2024-09-01",
-        "dataFinal":"2024-09-30",
+        "dataInicial":dataInicial,
+        "dataFinal":dataFinal,
         "transacoesManuais": False,
         "apenasTransacoesNaoClassificadas": False,
         "statusTransacao": "ATIVO",
@@ -67,8 +67,22 @@ def cnpj_empresa(empresa_id: int):
 def exportar_notas_fiscais():
     pass
 
-def exportar_imposto():
-    pass
+def exportar_imposto(empresa_id, competencia):
+    url = f"https://adminbackend.facilite.co/api/empresas/{empresa_id}/provisoes?page=0&size=1000&sort=id,desc"
+    headers = {
+    'Authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJlYXN5am9iIiwiYXV0aCI6IlJPTEVfRU1QUkVTQVMsUk9MRV9FU0NSSVRPUklPX0NPTlRBQklMSURBREUsUk9MRV9GSU5BTkNFSVJPLFJPTEVfRklTQ0FMLFJPTEVfR1JBRklDT1MsUk9MRV9QRVNTT0FMLFJPTEVfUFJPQ0VTU09TLFJPTEVfVVNFUiIsImV4cCI6MTcyOTM2MjA2N30.P_aARH0h07KaJCft68ijSz8qXNTR0yUzHRDpk0ExS_aBvglo248NL-zEdk6sVV5l3-cdUvr0TmBSyuPhEMt1xQ'
+    }
+
+    response = requests.request("GET", url, headers=headers)
+    provisoes = response.json()
+
+    lancamento_provisoes = []
+    for provisao in provisoes:
+        if provisao['competencia'] == competencia:
+            lancamento_provisoes.append(provisao)
+    
+
+    print()
 
 
 
@@ -77,5 +91,6 @@ def exportar_imposto():
 
 
 if __name__ == "__main__":
-    exportar_financas(8551)
+    # exportar_financas(8551)
+    exportar_imposto(8551, '2024-09')
     # cnpj_empresa(8551)

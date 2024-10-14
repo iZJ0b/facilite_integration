@@ -1,6 +1,9 @@
 import streamlit as st
 from authentic_facilite import *
 from contabil import *
+import datetime
+import calendar
+
 
 st.set_page_config(page_title='Integration Facilite', layout='wide')
 
@@ -19,7 +22,23 @@ def main():
     col_11, col_12, col_13 = st.columns([2, 2, 2])
     with col_11:
         options_empresas = st.multiselect('Selecione as Empresas', empresas)
-    # st.write(st.session_state.lista_empresas)
+    
+    with col_12:
+        today = datetime.datetime.now()
+
+        jan_1 = datetime.date(2024, 1, 1)
+
+        ultimo_dia_mesAtual = calendar.monthrange(today.year, today.month)[1]
+        mes_atual = datetime.date(today.year, today.month, ultimo_dia_mesAtual)
+
+        periodo_datas = st.date_input(
+            "Selecione o periodo",
+            (),
+            jan_1,
+            mes_atual,
+            format="DD/MM/YYYY",
+        )
+        # st.write(periodo_datas[1].strftime("%Y-%m-%d"))
 
     st.divider()
     if len(options_empresas) > 0:
@@ -51,7 +70,9 @@ def main():
                             for item_export in st.session_state.valid_export:
                                 
                                 if 'financas_contabil' in item_export:
-                                    texto_layout, naoClassificados = exportar_financas(int(empresa.split(' - ')[0]))
+                                    texto_layout, naoClassificados = exportar_financas(int(empresa.split(' - ')[0]), 
+                                                                                       periodo_datas[0].strftime("%Y-%m-%d"), 
+                                                                                       periodo_datas[1].strftime("%Y-%m-%d"))
                                     st.session_state.layout_texto += texto_layout
                                     lancamentos_naoClassificados.append(naoClassificados)
                         
