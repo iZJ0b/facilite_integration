@@ -1,10 +1,11 @@
 import requests
 from relacoes_contas.util import plano_contas, bancos
 from layouts import layout_lancContabil
+from authentic_facilite import autenticacao_facilite
 
-def exportar_financas(empresa_id: int, dataInicial: str, dataFinal:str):
-    contas_contabeis = plano_contas()
-    contas_bancos = bancos()
+def exportar_financas(token, empresa_id: int, dataInicial: str, dataFinal:str):
+    # contas_contabeis = plano_contas()
+    contas_banco = consulta_codigoDominio_banco(token)
     url = "https://adminbackend.facilite.co/api/financas"
 
     payload = {
@@ -17,14 +18,14 @@ def exportar_financas(empresa_id: int, dataInicial: str, dataFinal:str):
         "size": 1000
     }
     headers = {
-    'Authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJlYXN5am9iIiwiYXV0aCI6IlJPTEVfRU1QUkVTQVMsUk9MRV9FU0NSSVRPUklPX0NPTlRBQklMSURBREUsUk9MRV9GSU5BTkNFSVJPLFJPTEVfRklTQ0FMLFJPTEVfR1JBRklDT1MsUk9MRV9QRVNTT0FMLFJPTEVfUFJPQ0VTU09TLFJPTEVfVVNFUiIsImV4cCI6MTcyOTM2MjA2N30.P_aARH0h07KaJCft68ijSz8qXNTR0yUzHRDpk0ExS_aBvglo248NL-zEdk6sVV5l3-cdUvr0TmBSyuPhEMt1xQ'
+    'Authorization': f'Bearer {token}'
     }
 
     response = requests.request("GET", url, headers=headers, data=payload)
     lancamentos = response.json()
     
     # buscar pelo cnpj da empresa
-    cnpj = cnpj_empresa(empresa_id)
+    cnpj = cnpj_empresa(token, empresa_id)
     layout_text = f"|0000|{cnpj}|\n"
 
     naoClassificado = []
@@ -43,35 +44,46 @@ def exportar_financas(empresa_id: int, dataInicial: str, dataFinal:str):
 
         else: 
             # verifica o codigo reduzido da contrapartida
-            codigoClassificacao = lancamento['codigoClassificacao'].replace('CODIGO_', '').replace('_', '')
-            codReduzido_contrapartida = [conta['id'] for conta in contas_contabeis if conta['classificacao'] == codigoClassificacao][0]
+            # codigoClassificacao = lancamento['codigoClassificacao'].replace('CODIGO_', '').replace('_', '')
+            codReduzido_contrapartida = lancamento['codigoClassificacaoDominio']
             
             # buscar o codigo reduzido da conta bancaria
-            id_banco_facilite = lancamento['banco']['id']
-            codReduzido_banco = contas_bancos[str(id_banco_facilite)]
+            id_banco_facilite = lancamento['banco']['bankid']
+            codReduzido_banco = [conta['id'] for conta in contas_banco if conta['bankId'] == int(id_banco_facilite)][0]
 
             text = layout_lancContabil(tipo_movimento, dataPagamento, codReduzido_banco, codReduzido_contrapartida, valor, descricao)
             layout_text += text
     return layout_text, naoClassificado
 
-def cnpj_empresa(empresa_id: int):
+def cnpj_empresa(token, empresa_id: int):
     url = f"https://adminbackend.facilite.co/api/empresas/{empresa_id}"
     headers = {
-    'Authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJlYXN5am9iIiwiYXV0aCI6IlJPTEVfRU1QUkVTQVMsUk9MRV9FU0NSSVRPUklPX0NPTlRBQklMSURBREUsUk9MRV9GSU5BTkNFSVJPLFJPTEVfRklTQ0FMLFJPTEVfR1JBRklDT1MsUk9MRV9QRVNTT0FMLFJPTEVfUFJPQ0VTU09TLFJPTEVfVVNFUiIsImV4cCI6MTcyOTM2MjA2N30.P_aARH0h07KaJCft68ijSz8qXNTR0yUzHRDpk0ExS_aBvglo248NL-zEdk6sVV5l3-cdUvr0TmBSyuPhEMt1xQ'
+    'Authorization': f'Bearer {token}'
     }
 
     response = requests.request("GET", url, headers=headers)
     dados_empresa = response.json()
     return dados_empresa['cnpj']
 
+def consulta_codigoDominio_banco(token):
+    url = 'https://adminbackend.facilite.co/api/plano-contas/ofx'
+    headers = {
+    'Authorization': f'Bearer {token}'
+    }
+
+    response = requests.request("GET", url, headers=headers)
+    lista_ofx = response.json()
+    return [conta  for conta in lista_ofx if conta['bankId'] is not None] # retorna a lista das contas banco
+
 def exportar_notas_fiscais():
     pass
 
-def exportar_imposto(empresa_id, competencia):
+def exportar_imposto(token, empresa_id, competencia):
     url = f"https://adminbackend.facilite.co/api/empresas/{empresa_id}/provisoes?page=0&size=1000&sort=id,desc"
     headers = {
-    'Authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJlYXN5am9iIiwiYXV0aCI6IlJPTEVfRU1QUkVTQVMsUk9MRV9FU0NSSVRPUklPX0NPTlRBQklMSURBREUsUk9MRV9GSU5BTkNFSVJPLFJPTEVfRklTQ0FMLFJPTEVfR1JBRklDT1MsUk9MRV9QRVNTT0FMLFJPTEVfUFJPQ0VTU09TLFJPTEVfVVNFUiIsImV4cCI6MTcyOTM2MjA2N30.P_aARH0h07KaJCft68ijSz8qXNTR0yUzHRDpk0ExS_aBvglo248NL-zEdk6sVV5l3-cdUvr0TmBSyuPhEMt1xQ'
+    'Authorization': f'Bearer {token}'
     }
+
 
     response = requests.request("GET", url, headers=headers)
     provisoes = response.json()
@@ -91,6 +103,14 @@ def exportar_imposto(empresa_id, competencia):
 
 
 if __name__ == "__main__":
-    # exportar_financas(8551)
-    exportar_imposto(8551, '2024-09')
+    token = autenticacao_facilite()
+    # exportar_financas(token, 8551, '2024-12-01', '2024-12-31')
+    exportar_imposto(token, 8551, '2024-12')
     # cnpj_empresa(8551)
+
+    # contas_banco = consulta_codigoDominio_banco(token)
+    # for conta in contas_banco:
+    #     if conta['bankId'] == 208:
+    #         print()
+
+    print()

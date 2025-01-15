@@ -32,6 +32,7 @@ def listagem_empresas(token):
 
 
 if __name__ == "__main__":
-    # autenticacao_facilite()
-    id_token = "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJlYXN5am9iIiwiYXV0aCI6IlJPTEVfRU1QUkVTQVMsUk9MRV9FU0NSSVRPUklPX0NPTlRBQklMSURBREUsUk9MRV9GSU5BTkNFSVJPLFJPTEVfRklTQ0FMLFJPTEVfR1JBRklDT1MsUk9MRV9QRVNTT0FMLFJPTEVfUFJPQ0VTU09TLFJPTEVfVVNFUiIsImV4cCI6MTczMDkxNTI0M30.1g-t7xrwgN6ixRguF4m0eUrsYxXjDh300xtuCARqVOigwv9rP17yRr-uxoTwfqgPQ9JhfLn2Es85_bcc3Rm79Q"
-    listagem_empresas(token=id_token)
+    token = autenticacao_facilite()
+    # id_token = "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJlYXN5am9iIiwiYXV0aCI6IlJPTEVfRU1QUkVTQVMsUk9MRV9FU0NSSVRPUklPX0NPTlRBQklMSURBREUsUk9MRV9GSU5BTkNFSVJPLFJPTEVfRklTQ0FMLFJPTEVfR1JBRklDT1MsUk9MRV9QRVNTT0FMLFJPTEVfUFJPQ0VTU09TLFJPTEVfVVNFUiIsImV4cCI6MTczMDkxNTI0M30.1g-t7xrwgN6ixRguF4m0eUrsYxXjDh300xtuCARqVOigwv9rP17yRr-uxoTwfqgPQ9JhfLn2Es85_bcc3Rm79Q"
+    # listagem_empresas(token=id_token)
+    print()
