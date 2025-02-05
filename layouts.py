@@ -25,4 +25,6 @@ def layout_lancContabil_Varios_Varios(lancamento, data_lancamento):
         else:
             texto = f"|6100|{data_lancamento}||{lancamento[-1]}|{valor_formatado}||SALDO INICIAL||||\n"
 
-    return texto
+        return texto
+    
+    return None

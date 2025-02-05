@@ -27,8 +27,8 @@ def depara_contas_dominio(dados):
 
     for lancamento in dados:
         for conta in contas_contabeis:
-    
-            if conta['classificacao'] == str(lancamento[0]):
+            
+            if conta['classificacao'] == str(int(lancamento[0])):
                 lancamento.append(conta['id'])
                 break
 
@@ -54,9 +54,14 @@ def main():
                 st.write("Gerando layout...")
                 layout = f"|0000|{cnpj}|\n" \
                          f"|6000|V||||\n"
+                contas_nao_encontradas = []
                 for lancamento in contas_depara:
                     texto = layout_lancContabil_Varios_Varios(lancamento, data_saldo_inicial)
-                    layout += texto
+                    if texto is not None:
+                        layout += texto
+                    else:
+                        contas_nao_encontradas.append(lancamento)
+
 
                 status.update(
                     label="Processamento Completo!", state="complete", expanded=False
@@ -67,6 +72,8 @@ def main():
                 file_name="saldo_inicial.txt", 
                 icon=':material/exit_to_app:', 
                 )
+            st.subheader('Lançamentos Não Identificado a Conta Contábil')
+            st.write(contas_nao_encontradas)
             st.code(layout)
 
 
