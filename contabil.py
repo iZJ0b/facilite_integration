@@ -48,9 +48,12 @@ def exportar_financas(token, empresa_id: int, dataInicial: str, dataFinal:str):
             codReduzido_contrapartida = lancamento['codigoClassificacaoDominio']
             
             # buscar o codigo reduzido da conta bancaria
-            id_banco_facilite = lancamento['banco']['bankid']
-            codReduzido_banco = [conta['id'] for conta in contas_banco if conta['bankId'] == int(id_banco_facilite)][0]
-
+            if lancamento['banco'] is not None: 
+                id_banco_facilite = lancamento['banco']['bankid']
+                codReduzido_banco = [conta['id'] for conta in contas_banco if conta['bankId'] == int(id_banco_facilite)][0]
+            else:
+                codReduzido_banco = 6
+                
             text = layout_lancContabil(tipo_movimento, dataPagamento, codReduzido_banco, codReduzido_contrapartida, valor, descricao)
             layout_text += text
     return layout_text, naoClassificado
@@ -104,8 +107,8 @@ def exportar_imposto(token, empresa_id, competencia):
 
 if __name__ == "__main__":
     token = autenticacao_facilite()
-    # exportar_financas(token, 8551, '2024-12-01', '2024-12-31')
-    exportar_imposto(token, 8551, '2024-12')
+    exportar_financas(token, 6967, '2024-12-01', '2024-12-31')
+    # exportar_imposto(token, 8551, '2024-12')
     # cnpj_empresa(8551)
 
     # contas_banco = consulta_codigoDominio_banco(token)
